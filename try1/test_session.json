@@ -1,0 +1,36 @@
+{
+  "session_features": [
+    {
+      "session_id": "user3_session_0",
+      "start_time": 1740798311.140855,
+      "end_time": 1740798327.1578977,
+      "duration": 16.017042636871338,
+      "num_keystrokes": 49,
+      "user_id": "user3",
+      "mean_dwell_time": 0.08666793544386989,
+      "std_dwell_time": 0.0132606879628,
+      "min_dwell_time": 0.05914284292315427,
+      "max_dwell_time": 0.11319302932615732,
+      "mean_press_press_time": 0.3324194489693155,
+      "std_press_press_time": 0.061147217208642496,
+      "min_press_press_time": 0.1578521728515625,
+      "max_press_press_time": 0.4573230743408203,
+      "mean_release_release_time": 0.33233269866631954,
+      "std_release_release_time": 0.05939712137466234,
+      "min_release_release_time": 0.18537044525146484,
+      "max_release_release_time": 0.4652132987976074,
+      "mean_release_press_time": 0.24575151229391293,
+      "std_release_press_time": 0.05735547920336742,
+      "min_release_press_time": 0.09776496887207031,
+      "max_release_press_time": 0.3749206066131592,
+      "special_key_ratio": 0.14285714285714285,
+      "shift": 2,
+      "ctrl": 0,
+      "alt": 3,
+      "space": 1,
+      "backspace": 0,
+      "enter": 0,
+      "tab": 1
+    }
+  ]
+}
