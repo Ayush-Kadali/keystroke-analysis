@@ -1,0 +1,31 @@
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib64/python3.13/threading.py", line 1041, in _bootstrap_inner
+    self.run()
+    ~~~~~~~~^^
+  File "/home/ayush/Desktop/university/SEM 4/dec/mini-project/.venv/lib64/python3.13/site-packages/pyxhook/pyxhook.py", line 96, in run
+    self.record_dpy.record_enable_context(self.ctx, self.processevents)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ayush/Desktop/university/SEM 4/dec/mini-project/.venv/lib64/python3.13/site-packages/Xlib/ext/record.py", line 238, in enable_context
+    EnableContext(
+    ~~~~~~~~~~~~~^
+            callback = callback,
+            ^^^^^^^^^^^^^^^^^^^^
+            display = self.display,
+            ^^^^^^^^^^^^^^^^^^^^^^^
+            opcode = self.display.get_extension_major(extname),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+            context = context)
+            ^^^^^^^^^^^^^^^^^^
+  File "/home/ayush/Desktop/university/SEM 4/dec/mini-project/.venv/lib64/python3.13/site-packages/Xlib/ext/record.py", line 219, in __init__
+    rq.ReplyRequest.__init__(self, *args, **keys)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ayush/Desktop/university/SEM 4/dec/mini-project/.venv/lib64/python3.13/site-packages/Xlib/protocol/rq.py", line 1368, in __init__
+    self.reply()
+    ~~~~~~~~~~^^
+  File "/home/ayush/Desktop/university/SEM 4/dec/mini-project/.venv/lib64/python3.13/site-packages/Xlib/protocol/rq.py", line 1380, in reply
+    self._display.send_and_recv(request = self._serial)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ayush/Desktop/university/SEM 4/dec/mini-project/.venv/lib64/python3.13/site-packages/Xlib/protocol/display.py", line 609, in send_and_recv
+    raise self.socket_error
+Xlib.error.ConnectionClosedError: Display connection closed by server

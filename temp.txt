@@ -1,0 +1,96 @@
+device added: 0001:0001:d651c513 AT Translated Set 2 keyboard (/dev/input/event4)
+device added: 04f3:0732:68fc1b5e ELAN25B6:00 04F3:0732 (/dev/input/event5)
+device added: 044e:121f:9a827a96 DELL081C:00 044E:121F Mouse (/dev/input/event8)
+device added: 044e:121f:e28b8784 DELL081C:00 044E:121F Touchpad (/dev/input/event9)
+device added: 044e:121f:c454bd19 DELL081C:00 044E:121F UNKNOWN (/dev/input/event10)
+device added: 0000:0006:bdb72f48 Video Bus (/dev/input/event11)
+device added: 0000:0000:52563095 Intel HID events (/dev/input/event12)
+device added: 0000:0000:2ac57e85 Intel HID 5 button array (/dev/input/event13)
+device added: 0000:0000:afb86503 Dell WMI hotkeys (/dev/input/event15)
+device added: 0fac:0ade:efba1ddf keyd virtual keyboard (/dev/input/event20)
+device added: 0fac:1ade:d2b36ae6 keyd virtual pointer (/dev/input/event21)
+keyd virtual keyboard	0fac:0ade:efba1ddf	i up
+keyd virtual keyboard	0fac:0ade:efba1ddf	s down
+keyd virtual keyboard	0fac:0ade:efba1ddf	space down
+keyd virtual keyboard	0fac:0ade:efba1ddf	s up
+keyd virtual keyboard	0fac:0ade:efba1ddf	i down
+keyd virtual keyboard	0fac:0ade:efba1ddf	space up
+keyd virtual keyboard	0fac:0ade:efba1ddf	s down
+keyd virtual keyboard	0fac:0ade:efba1ddf	i up
+keyd virtual keyboard	0fac:0ade:efba1ddf	s up
+keyd virtual keyboard	0fac:0ade:efba1ddf	space down
+keyd virtual keyboard	0fac:0ade:efba1ddf	space up
+keyd virtual keyboard	0fac:0ade:efba1ddf	i down
+keyd virtual keyboard	0fac:0ade:efba1ddf	i up
+keyd virtual keyboard	0fac:0ade:efba1ddf	s down
+keyd virtual keyboard	0fac:0ade:efba1ddf	s up
+keyd virtual keyboard	0fac:0ade:efba1ddf	n down
+keyd virtual keyboard	0fac:0ade:efba1ddf	a down
+keyd virtual keyboard	0fac:0ade:efba1ddf	n up
+keyd virtual keyboard	0fac:0ade:efba1ddf	a up
+keyd virtual keyboard	0fac:0ade:efba1ddf	backspace down
+keyd virtual keyboard	0fac:0ade:efba1ddf	backspace up
+keyd virtual keyboard	0fac:0ade:efba1ddf	backspace down
+keyd virtual keyboard	0fac:0ade:efba1ddf	backspace up
+keyd virtual keyboard	0fac:0ade:efba1ddf	backspace down
+keyd virtual keyboard	0fac:0ade:efba1ddf	backspace up
+keyd virtual keyboard	0fac:0ade:efba1ddf	backspace down
+keyd virtual keyboard	0fac:0ade:efba1ddf	backspace up
+keyd virtual keyboard	0fac:0ade:efba1ddf	i down
+keyd virtual keyboard	0fac:0ade:efba1ddf	i up
+keyd virtual keyboard	0fac:0ade:efba1ddf	n down
+keyd virtual keyboard	0fac:0ade:efba1ddf	n up
+keyd virtual keyboard	0fac:0ade:efba1ddf	s down
+keyd virtual keyboard	0fac:0ade:efba1ddf	s up
+keyd virtual keyboard	0fac:0ade:efba1ddf	a down
+keyd virtual keyboard	0fac:0ade:efba1ddf	n down
+keyd virtual keyboard	0fac:0ade:efba1ddf	a up
+keyd virtual keyboard	0fac:0ade:efba1ddf	e down
+keyd virtual keyboard	0fac:0ade:efba1ddf	n up
+keyd virtual keyboard	0fac:0ade:efba1ddf	space down
+keyd virtual keyboard	0fac:0ade:efba1ddf	e up
+keyd virtual keyboard	0fac:0ade:efba1ddf	space up
+keyd virtual keyboard	0fac:0ade:efba1ddf	w down
+keyd virtual keyboard	0fac:0ade:efba1ddf	h down
+keyd virtual keyboard	0fac:0ade:efba1ddf	w up
+keyd virtual keyboard	0fac:0ade:efba1ddf	a down
+keyd virtual keyboard	0fac:0ade:efba1ddf	h up
+keyd virtual keyboard	0fac:0ade:efba1ddf	t down
+keyd virtual keyboard	0fac:0ade:efba1ddf	a up
+keyd virtual keyboard	0fac:0ade:efba1ddf	space down
+keyd virtual keyboard	0fac:0ade:efba1ddf	t up
+keyd virtual keyboard	0fac:0ade:efba1ddf	a down
+keyd virtual keyboard	0fac:0ade:efba1ddf	space up
+keyd virtual keyboard	0fac:0ade:efba1ddf	l down
+keyd virtual keyboard	0fac:0ade:efba1ddf	a up
+keyd virtual keyboard	0fac:0ade:efba1ddf	l up
+keyd virtual keyboard	0fac:0ade:efba1ddf	l down
+keyd virtual keyboard	0fac:0ade:efba1ddf	space down
+keyd virtual keyboard	0fac:0ade:efba1ddf	l up
+keyd virtual keyboard	0fac:0ade:efba1ddf	space up
+keyd virtual keyboard	0fac:0ade:efba1ddf	i down
+keyd virtual keyboard	0fac:0ade:efba1ddf	i up
+keyd virtual keyboard	0fac:0ade:efba1ddf	s down
+keyd virtual keyboard	0fac:0ade:efba1ddf	s up
+keyd virtual keyboard	0fac:0ade:efba1ddf	space down
+keyd virtual keyboard	0fac:0ade:efba1ddf	space up
+keyd virtual keyboard	0fac:0ade:efba1ddf	g down
+keyd virtual keyboard	0fac:0ade:efba1ddf	g up
+keyd virtual keyboard	0fac:0ade:efba1ddf	o down
+keyd virtual keyboard	0fac:0ade:efba1ddf	i down
+keyd virtual keyboard	0fac:0ade:efba1ddf	o up
+keyd virtual keyboard	0fac:0ade:efba1ddf	i up
+keyd virtual keyboard	0fac:0ade:efba1ddf	n down
+keyd virtual keyboard	0fac:0ade:efba1ddf	n up
+keyd virtual keyboard	0fac:0ade:efba1ddf	g down
+keyd virtual keyboard	0fac:0ade:efba1ddf	space down
+keyd virtual keyboard	0fac:0ade:efba1ddf	g up
+keyd virtual keyboard	0fac:0ade:efba1ddf	space up
+keyd virtual keyboard	0fac:0ade:efba1ddf	o down
+keyd virtual keyboard	0fac:0ade:efba1ddf	n down
+keyd virtual keyboard	0fac:0ade:efba1ddf	o up
+keyd virtual keyboard	0fac:0ade:efba1ddf	n up
+keyd virtual keyboard	0fac:0ade:efba1ddf	enter down
+keyd virtual keyboard	0fac:0ade:efba1ddf	enter up
+keyd virtual keyboard	0fac:0ade:efba1ddf	leftcontrol down
+keyd virtual keyboard	0fac:0ade:efba1ddf	c down

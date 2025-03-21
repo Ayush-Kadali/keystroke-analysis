@@ -1,0 +1,292 @@
+[
+  {
+    "event_type": "down",
+    "name": "t",
+    "time": 1742359361.058866
+  },
+  {
+    "event_type": "down",
+    "name": "h",
+    "time": 1742359361.124856
+  },
+  {
+    "event_type": "up",
+    "name": "t",
+    "time": 1742359361.1376052
+  },
+  {
+    "event_type": "up",
+    "name": "h",
+    "time": 1742359361.198795
+  },
+  {
+    "event_type": "down",
+    "name": "i",
+    "time": 1742359361.251796
+  },
+  {
+    "event_type": "up",
+    "name": "i",
+    "time": 1742359361.367564
+  },
+  {
+    "event_type": "down",
+    "name": "n",
+    "time": 1742359361.388556
+  },
+  {
+    "event_type": "up",
+    "name": "n",
+    "time": 1742359361.472238
+  },
+  {
+    "event_type": "down",
+    "name": "k",
+    "time": 1742359361.55554
+  },
+  {
+    "event_type": "up",
+    "name": "k",
+    "time": 1742359361.671159
+  },
+  {
+    "event_type": "down",
+    "name": "Key.space",
+    "time": 1742359361.771529
+  },
+  {
+    "event_type": "up",
+    "name": "Key.space",
+    "time": 1742359361.859363
+  },
+  {
+    "event_type": "down",
+    "name": "w",
+    "time": 1742359362.266737
+  },
+  {
+    "event_type": "up",
+    "name": "w",
+    "time": 1742359362.366424
+  },
+  {
+    "event_type": "down",
+    "name": "h",
+    "time": 1742359362.383422
+  },
+  {
+    "event_type": "up",
+    "name": "h",
+    "time": 1742359362.439063
+  },
+  {
+    "event_type": "down",
+    "name": "o",
+    "time": 1742359362.559703
+  },
+  {
+    "event_type": "up",
+    "name": "o",
+    "time": 1742359362.6514828
+  },
+  {
+    "event_type": "down",
+    "name": "Key.space",
+    "time": 1742359362.757635
+  },
+  {
+    "event_type": "up",
+    "name": "Key.space",
+    "time": 1742359362.8500779
+  },
+  {
+    "event_type": "down",
+    "name": "w",
+    "time": 1742359363.1144269
+  },
+  {
+    "event_type": "up",
+    "name": "w",
+    "time": 1742359363.205405
+  },
+  {
+    "event_type": "down",
+    "name": "o",
+    "time": 1742359363.248862
+  },
+  {
+    "event_type": "up",
+    "name": "o",
+    "time": 1742359363.333281
+  },
+  {
+    "event_type": "down",
+    "name": "t",
+    "time": 1742359363.437539
+  },
+  {
+    "event_type": "up",
+    "name": "t",
+    "time": 1742359363.5048451
+  },
+  {
+    "event_type": "down",
+    "name": "k",
+    "time": 1742359363.5832691
+  },
+  {
+    "event_type": "up",
+    "name": "k",
+    "time": 1742359363.648988
+  },
+  {
+    "event_type": "down",
+    "name": "Key.backspace",
+    "time": 1742359364.3575711
+  },
+  {
+    "event_type": "up",
+    "name": "Key.backspace",
+    "time": 1742359364.425555
+  },
+  {
+    "event_type": "down",
+    "name": "Key.backspace",
+    "time": 1742359364.49965
+  },
+  {
+    "event_type": "up",
+    "name": "Key.backspace",
+    "time": 1742359364.577224
+  },
+  {
+    "event_type": "down",
+    "name": "r",
+    "time": 1742359364.6480372
+  },
+  {
+    "event_type": "up",
+    "name": "r",
+    "time": 1742359364.728051
+  },
+  {
+    "event_type": "down",
+    "name": "k",
+    "time": 1742359364.732446
+  },
+  {
+    "event_type": "up",
+    "name": "k",
+    "time": 1742359364.799587
+  },
+  {
+    "event_type": "down",
+    "name": "Key.space",
+    "time": 1742359364.878027
+  },
+  {
+    "event_type": "up",
+    "name": "Key.space",
+    "time": 1742359364.953974
+  },
+  {
+    "event_type": "down",
+    "name": "w",
+    "time": 1742359365.4426959
+  },
+  {
+    "event_type": "up",
+    "name": "w",
+    "time": 1742359365.526418
+  },
+  {
+    "event_type": "down",
+    "name": "i",
+    "time": 1742359365.670188
+  },
+  {
+    "event_type": "up",
+    "name": "i",
+    "time": 1742359365.732466
+  },
+  {
+    "event_type": "down",
+    "name": "t",
+    "time": 1742359365.831357
+  },
+  {
+    "event_type": "up",
+    "name": "t",
+    "time": 1742359365.8989398
+  },
+  {
+    "event_type": "down",
+    "name": "h",
+    "time": 1742359365.916117
+  },
+  {
+    "event_type": "up",
+    "name": "h",
+    "time": 1742359365.9770088
+  },
+  {
+    "event_type": "down",
+    "name": "o",
+    "time": 1742359366.0754979
+  },
+  {
+    "event_type": "up",
+    "name": "o",
+    "time": 1742359366.182485
+  },
+  {
+    "event_type": "down",
+    "name": "u",
+    "time": 1742359366.2735271
+  },
+  {
+    "event_type": "up",
+    "name": "u",
+    "time": 1742359366.340499
+  },
+  {
+    "event_type": "down",
+    "name": "g",
+    "time": 1742359366.417971
+  },
+  {
+    "event_type": "up",
+    "name": "g",
+    "time": 1742359366.485704
+  },
+  {
+    "event_type": "down",
+    "name": "Key.backspace",
+    "time": 1742359366.835379
+  },
+  {
+    "event_type": "up",
+    "name": "Key.backspace",
+    "time": 1742359366.902121
+  },
+  {
+    "event_type": "down",
+    "name": "t",
+    "time": 1742359367.954518
+  },
+  {
+    "event_type": "up",
+    "name": "t",
+    "time": 1742359368.02334
+  },
+  {
+    "event_type": "down",
+    "name": "Key.space",
+    "time": 1742359368.099945
+  },
+  {
+    "event_type": "up",
+    "name": "Key.space",
+    "time": 1742359368.1826
+  }
+]

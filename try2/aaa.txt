@@ -1,0 +1,1755 @@
+{"event_type": "down", "scan_code": 59, "name": "ctrl", "time": 1742360446.6125162, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742360446.7151842, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742360446.938592, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742360447.030507, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742360447.430429, "is_keypad": 0}
+{"event_type": "up", "scan_code": 59, "name": "ctrl", "time": 1742360447.454417, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742360447.6683369, "is_keypad": 0}
+{"event_type": "down", "scan_code": 58, "name": "alt", "time": 1742360447.700771, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742360448.040303, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742360448.112097, "is_keypad": 0}
+{"event_type": "up", "scan_code": 58, "name": "alt", "time": 1742360448.548445, "is_keypad": 0}
+{"event_type": "down", "scan_code": 58, "name": "alt", "time": 1742360449.348704, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742360449.7004359, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742360449.788353, "is_keypad": 0}
+{"event_type": "up", "scan_code": 58, "name": "alt", "time": 1742360450.028633, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742360451.320596, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742360452.659359, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742360453.0634181, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742360453.149218, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742360453.835595, "is_keypad": 0}
+{"event_type": "down", "scan_code": 6, "time": 1742360455.010025, "is_keypad": 0}
+{"event_type": "up", "scan_code": 6, "time": 1742360455.1505122, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360455.544307, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360455.612409, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360455.7169652, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360455.817313, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360455.893993, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360455.99438, "is_keypad": 0}
+{"event_type": "down", "scan_code": 2, "time": 1742360456.839967, "is_keypad": 0}
+{"event_type": "up", "scan_code": 2, "time": 1742360456.960274, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360457.308171, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360457.416404, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360457.497772, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360457.6266491, "is_keypad": 0}
+{"event_type": "down", "scan_code": 8, "time": 1742360457.850967, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742360457.942786, "is_keypad": 0}
+{"event_type": "down", "scan_code": 2, "time": 1742360458.0585039, "is_keypad": 0}
+{"event_type": "up", "scan_code": 2, "time": 1742360458.159169, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742360458.3430002, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742360458.461392, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360464.767584, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360465.2686532, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360465.352888, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360465.437396, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360465.446938, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742360491.7582011, "is_keypad": 0}
+{"event_type": "down", "scan_code": 8, "time": 1742360491.893622, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742360491.953162, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742360492.0060449, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742360493.8813262, "is_keypad": 0}
+{"event_type": "down", "scan_code": 9, "time": 1742360493.97691, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742360494.031947, "is_keypad": 0}
+{"event_type": "up", "scan_code": 9, "time": 1742360494.077334, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742360496.313853, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742360496.413394, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360498.528864, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360498.593118, "is_keypad": 0}
+{"event_type": "down", "scan_code": 44, "time": 1742360499.1587431, "is_keypad": 0}
+{"event_type": "up", "scan_code": 44, "time": 1742360499.22715, "is_keypad": 0}
+{"event_type": "down", "scan_code": 40, "time": 1742360499.898794, "is_keypad": 0}
+{"event_type": "up", "scan_code": 40, "time": 1742360499.978833, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742360499.9988182, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742360500.084199, "is_keypad": 0}
+{"event_type": "down", "scan_code": 16, "time": 1742360500.1482618, "is_keypad": 0}
+{"event_type": "up", "scan_code": 16, "time": 1742360500.217165, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742360500.8032188, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742360500.880047, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742360500.912024, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742360500.9568892, "is_keypad": 0}
+{"event_type": "down", "scan_code": 15, "time": 1742360501.030111, "is_keypad": 0}
+{"event_type": "up", "scan_code": 15, "time": 1742360501.0671701, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742360501.457551, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742360501.5300322, "is_keypad": 0}
+{"event_type": "down", "scan_code": 40, "time": 1742360501.620404, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742360501.676675, "is_keypad": 0}
+{"event_type": "up", "scan_code": 40, "time": 1742360501.69556, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742360501.74859, "is_keypad": 0}
+{"event_type": "down", "scan_code": 27, "time": 1742360502.7857459, "is_keypad": 0}
+{"event_type": "up", "scan_code": 27, "time": 1742360502.850123, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742360503.403658, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742360503.467992, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360504.840608, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360504.948715, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360505.0174239, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360505.0859032, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360505.199172, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360505.2759502, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742360506.237203, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742360506.282007, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360506.662675, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360506.7667809, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742360507.0020869, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742360507.078778, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360507.412215, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360507.4927201, "is_keypad": 0}
+{"event_type": "down", "scan_code": 16, "time": 1742360507.764124, "is_keypad": 0}
+{"event_type": "up", "scan_code": 16, "time": 1742360507.84029, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742360507.892083, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742360507.972744, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742360507.9946501, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742360508.0595012, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742360508.090732, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742360508.1678588, "is_keypad": 0}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360512.117355, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360512.6178508, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360512.70194, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360512.78602, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360512.8701172, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360512.9551601, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360513.038781, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360513.121713, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360513.205025, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360513.289058, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360513.372562, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360513.4567392, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360513.540838, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360513.6251268, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360513.709114, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360513.793191, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360513.877447, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360513.9615202, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360514.0454552, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360514.128792, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360514.212291, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360514.295467, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360514.378751, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360514.462311, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360514.545323, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360514.6287959, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360514.7121038, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360514.795491, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360514.8787572, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360514.962184, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360515.045509, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360515.1288462, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360515.212148, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360515.2955241, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360515.378612, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360515.462176, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360515.545537, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360515.628757, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360515.712024, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360515.7953558, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360515.8788412, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360515.961974, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360516.045485, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360516.1287549, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360516.212019, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360516.295545, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360516.3788679, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360516.462063, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360516.545569, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360516.6287081, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360516.712165, "is_keypad": 2097152}
+{"event_type": "up", "scan_code": 123, "name": "left", "time": 1742360516.764065, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 8, "time": 1742360517.8245041, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742360517.880787, "is_keypad": 0}
+{"event_type": "down", "scan_code": 2, "time": 1742360517.957409, "is_keypad": 0}
+{"event_type": "up", "scan_code": 2, "time": 1742360518.0338671, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742360518.099295, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742360518.163873, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742360518.412535, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742360518.4762938, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360523.01601, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742360523.112016, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360523.143877, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742360523.216581, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742360523.2276878, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742360523.361009, "is_keypad": 0}
+{"event_type": "down", "scan_code": 8, "time": 1742360524.283403, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742360524.367914, "is_keypad": 0}
+{"event_type": "down", "scan_code": 2, "time": 1742360524.474408, "is_keypad": 0}
+{"event_type": "up", "scan_code": 2, "time": 1742360524.570923, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742360524.6963992, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742360524.784498, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742360524.791612, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742360524.8728828, "is_keypad": 0}
+{"event_type": "down", "scan_code": 15, "time": 1742360524.965444, "is_keypad": 0}
+{"event_type": "up", "scan_code": 15, "time": 1742360525.089943, "is_keypad": 0}
+{"event_type": "down", "scan_code": 48, "name": "tab", "time": 1742360525.113724, "is_keypad": 0}
+{"event_type": "up", "scan_code": 48, "name": "tab", "time": 1742360525.322895, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742360525.407237, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742360525.531887, "is_keypad": 0}
+{"event_type": "down", "scan_code": 126, "name": "up", "time": 1742360526.503551, "is_keypad": 2097152}
+{"event_type": "up", "scan_code": 126, "name": "up", "time": 1742360526.6155221, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 19, "time": 1742360526.8419762, "is_keypad": 0}
+{"event_type": "up", "scan_code": 19, "time": 1742360526.99069, "is_keypad": 0}
+{"event_type": "down", "scan_code": 48, "name": "tab", "time": 1742360527.105315, "is_keypad": 0}
+{"event_type": "up", "scan_code": 48, "name": "tab", "time": 1742360527.2739258, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742360527.4151402, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742360527.527851, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360527.7449589, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742360527.8567622, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360527.877377, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742360527.9568052, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742360527.971976, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742360528.080076, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742360529.217524, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742360529.3250601, "is_keypad": 0}
+{"event_type": "down", "scan_code": 9, "time": 1742360529.338828, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742360529.443228, "is_keypad": 0}
+{"event_type": "up", "scan_code": 9, "time": 1742360529.463649, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742360529.547636, "is_keypad": 0}
+{"event_type": "down", "scan_code": 46, "time": 1742360529.615148, "is_keypad": 0}
+{"event_type": "up", "scan_code": 46, "time": 1742360529.767643, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742360529.805724, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742360529.930322, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360530.0435562, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360530.544447, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360530.628603, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360530.711998, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360530.795197, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360530.878709, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360530.962631, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360530.975177, "is_keypad": 0}
+{"event_type": "down", "scan_code": 11, "time": 1742360531.071163, "is_keypad": 0}
+{"event_type": "up", "scan_code": 11, "time": 1742360531.226805, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360531.643737, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360531.74458, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360531.825081, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360531.905578, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360531.981239, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360532.077556, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742360532.379791, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742360532.4920151, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742360532.668469, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742360532.7535229, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360532.8288581, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360532.901619, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360532.971019, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360533.071369, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742360533.096033, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742360533.208054, "is_keypad": 0}
+{"event_type": "down", "scan_code": 27, "time": 1742360533.3202088, "is_keypad": 0}
+{"event_type": "up", "scan_code": 27, "time": 1742360533.396723, "is_keypad": 0}
+{"event_type": "down", "scan_code": 3, "time": 1742360533.6333199, "is_keypad": 0}
+{"event_type": "up", "scan_code": 3, "time": 1742360533.7054, "is_keypad": 0}
+{"event_type": "down", "scan_code": 3, "time": 1742360533.816463, "is_keypad": 0}
+{"event_type": "up", "scan_code": 3, "time": 1742360533.904398, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360534.182236, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360534.306488, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742360534.444342, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742360534.5484328, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360534.739242, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360534.855572, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360534.934928, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360535.015498, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742360535.117835, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742360535.20636, "is_keypad": 0}
+{"event_type": "down", "scan_code": 13, "time": 1742360535.2316449, "is_keypad": 0}
+{"event_type": "up", "scan_code": 13, "time": 1742360535.348428, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742360535.496573, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742360535.6332219, "is_keypad": 0}
+{"event_type": "down", "scan_code": 47, "time": 1742360536.713533, "is_keypad": 0}
+{"event_type": "up", "scan_code": 47, "time": 1742360536.853983, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742360536.9904902, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742360537.099078, "is_keypad": 0}
+{"event_type": "down", "scan_code": 7, "time": 1742360537.2238579, "is_keypad": 0}
+{"event_type": "up", "scan_code": 7, "time": 1742360537.316503, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742360537.4580212, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742360537.5663092, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742360537.637753, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742360537.750242, "is_keypad": 0}
+{"event_type": "down", "scan_code": 126, "name": "up", "time": 1742360539.4493299, "is_keypad": 2097152}
+{"event_type": "up", "scan_code": 126, "name": "up", "time": 1742360539.565331, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360539.835267, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360540.336194, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360540.420297, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360540.504098, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360540.587332, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360540.670774, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360540.7537322, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360540.83747, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360540.920785, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360541.004061, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360541.087411, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360541.1705768, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360541.2541351, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360541.337348, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360541.420792, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360541.504045, "is_keypad": 2097152}
+{"event_type": "up", "scan_code": 123, "name": "left", "time": 1742360541.518625, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360542.193692, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360542.274352, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742360542.7018309, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742360542.837912, "is_keypad": 0}
+{"event_type": "down", "scan_code": 126, "name": "up", "time": 1742360544.237848, "is_keypad": 2097152}
+{"event_type": "up", "scan_code": 126, "name": "up", "time": 1742360544.382247, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360544.593184, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360545.0942578, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360545.1781278, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360545.261844, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360545.345032, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360545.42859, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360545.511898, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360545.5952399, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360545.67854, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360545.7616901, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360545.8452008, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360545.928614, "is_keypad": 2097152}
+{"event_type": "up", "scan_code": 123, "name": "left", "time": 1742360545.965002, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360546.089827, "is_keypad": 2097152}
+{"event_type": "up", "scan_code": 123, "name": "left", "time": 1742360546.2260969, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 123, "name": "left", "time": 1742360546.291789, "is_keypad": 2097152}
+{"event_type": "up", "scan_code": 123, "name": "left", "time": 1742360546.3919182, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 27, "time": 1742360547.081818, "is_keypad": 0}
+{"event_type": "up", "scan_code": 27, "time": 1742360547.162167, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742360547.433729, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742360547.534198, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742360549.0897532, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742360549.197697, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742360549.3873332, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742360549.466927, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360549.565701, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360549.686008, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742360549.808188, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742360549.9207392, "is_keypad": 0}
+{"event_type": "down", "scan_code": 47, "time": 1742360551.058227, "is_keypad": 0}
+{"event_type": "up", "scan_code": 47, "time": 1742360551.1666691, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742360551.397384, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742360551.520621, "is_keypad": 0}
+{"event_type": "down", "scan_code": 7, "time": 1742360551.6382751, "is_keypad": 0}
+{"event_type": "up", "scan_code": 7, "time": 1742360551.782447, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742360551.8790631, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742360551.991265, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742360552.176032, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742360552.2843761, "is_keypad": 0}
+{"event_type": "down", "scan_code": 27, "time": 1742360552.526078, "is_keypad": 0}
+{"event_type": "up", "scan_code": 27, "time": 1742360552.614768, "is_keypad": 0}
+{"event_type": "down", "scan_code": 27, "time": 1742360552.699575, "is_keypad": 0}
+{"event_type": "up", "scan_code": 27, "time": 1742360552.7799401, "is_keypad": 0}
+{"event_type": "down", "scan_code": 3, "time": 1742360552.842665, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360552.958456, "is_keypad": 0}
+{"event_type": "up", "scan_code": 3, "time": 1742360552.9656801, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360553.074732, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742360553.161749, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742360553.269792, "is_keypad": 0}
+{"event_type": "down", "scan_code": 13, "time": 1742360553.2902882, "is_keypad": 0}
+{"event_type": "up", "scan_code": 13, "time": 1742360553.410961, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360554.092549, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360554.212827, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360554.292233, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360554.380779, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360554.4673312, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360554.551651, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742360555.0094872, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742360555.109653, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360555.208477, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360555.328523, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360555.386517, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360555.482736, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742360555.589219, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742360555.681758, "is_keypad": 0}
+{"event_type": "down", "scan_code": 13, "time": 1742360555.735271, "is_keypad": 0}
+{"event_type": "up", "scan_code": 13, "time": 1742360555.8518121, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742360556.3483012, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742360556.440904, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742360578.237334, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742360578.37801, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742360578.455497, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742360578.476181, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742360578.5684302, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742360578.636828, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360579.433353, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360579.569963, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360579.777267, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360579.893701, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742360580.031502, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742360580.1358058, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360580.214473, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360580.3508549, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742360580.517534, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742360580.6295612, "is_keypad": 0}
+{"event_type": "down", "scan_code": 29, "time": 1742360580.738474, "is_keypad": 0}
+{"event_type": "up", "scan_code": 29, "time": 1742360580.822983, "is_keypad": 0}
+{"event_type": "down", "scan_code": 27, "time": 1742360580.925401, "is_keypad": 0}
+{"event_type": "up", "scan_code": 27, "time": 1742360580.997893, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360581.417566, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360581.420605, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360581.461683, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360581.465146, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360581.5804281, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360581.6768599, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360581.755455, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360581.823877, "is_keypad": 0}
+{"event_type": "down", "scan_code": 27, "time": 1742360582.486209, "is_keypad": 0}
+{"event_type": "up", "scan_code": 27, "time": 1742360582.558851, "is_keypad": 0}
+{"event_type": "down", "scan_code": 27, "time": 1742360582.6456819, "is_keypad": 0}
+{"event_type": "up", "scan_code": 27, "time": 1742360582.7138119, "is_keypad": 0}
+{"event_type": "down", "scan_code": 3, "time": 1742360582.7664561, "is_keypad": 0}
+{"event_type": "up", "scan_code": 3, "time": 1742360582.898848, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742360583.072462, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742360583.1889338, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360583.297309, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360583.4056509, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742360583.473387, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742360583.521751, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360583.8845608, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360583.9287858, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360584.11638, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360584.196816, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360584.288329, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360584.376747, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360584.4532638, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360584.537772, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360584.6220238, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360584.702857, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360584.890387, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360585.0308878, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742360585.152318, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742360585.2244081, "is_keypad": 0}
+{"event_type": "down", "scan_code": 13, "time": 1742360585.262611, "is_keypad": 0}
+{"event_type": "up", "scan_code": 13, "time": 1742360585.3873448, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742360585.446281, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742360585.54638, "is_keypad": 0}
+{"event_type": "down", "scan_code": 48, "name": "tab", "time": 1742360586.649345, "is_keypad": 0}
+{"event_type": "up", "scan_code": 48, "name": "tab", "time": 1742360586.86974, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742360587.082379, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742360587.206669, "is_keypad": 0}
+{"event_type": "down", "scan_code": 126, "name": "up", "time": 1742360605.4711711, "is_keypad": 2097152}
+{"event_type": "up", "scan_code": 126, "name": "up", "time": 1742360605.5814521, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360606.700331, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360607.201178, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360607.285921, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360607.369231, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360607.400243, "is_keypad": 0}
+{"event_type": "down", "scan_code": 48, "name": "tab", "time": 1742360607.6827269, "is_keypad": 0}
+{"event_type": "up", "scan_code": 48, "name": "tab", "time": 1742360607.839286, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360622.513667, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360623.014679, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360623.0987258, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360623.182663, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360623.266903, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360623.3510458, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360623.4357738, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360623.519261, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360623.603043, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360623.686511, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360623.769967, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360623.8531399, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360623.93666, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360624.0197089, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360624.103254, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360624.179719, "is_keypad": 0}
+{"event_type": "down", "scan_code": 3, "time": 1742360625.087148, "is_keypad": 0}
+{"event_type": "up", "scan_code": 3, "time": 1742360625.203567, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742360625.25392, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742360625.3664262, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360625.494805, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360625.587622, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360625.658083, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360625.746621, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742360625.8450801, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742360625.9454, "is_keypad": 0}
+{"event_type": "down", "scan_code": 13, "time": 1742360625.9929101, "is_keypad": 0}
+{"event_type": "up", "scan_code": 13, "time": 1742360626.117343, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742360626.3321118, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742360626.4362571, "is_keypad": 0}
+{"event_type": "down", "scan_code": 126, "name": "up", "time": 1742360629.5351858, "is_keypad": 2097152}
+{"event_type": "up", "scan_code": 126, "name": "up", "time": 1742360629.683467, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360630.725132, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360631.226184, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360631.3101592, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360631.394316, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360631.4776902, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360631.496887, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360631.598881, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360631.6993809, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360631.783983, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360631.884258, "is_keypad": 0}
+{"event_type": "down", "scan_code": 60, "name": "right shift", "time": 1742360632.247086, "is_keypad": 0}
+{"event_type": "down", "scan_code": 3, "time": 1742360632.397818, "is_keypad": 0}
+{"event_type": "up", "scan_code": 3, "time": 1742360632.5138931, "is_keypad": 0}
+{"event_type": "up", "scan_code": 60, "name": "right shift", "time": 1742360632.534177, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742360632.671051, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742360632.7984152, "is_keypad": 0}
+{"event_type": "up", "scan_code": 63, "name": "ƒ", "time": 1742360633.6050692, "is_keypad": 0}
+{"event_type": "down", "scan_code": 8, "time": 1742360633.977081, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742360634.096482, "is_keypad": 0}
+{"event_type": "up", "scan_code": 63, "name": "ƒ", "time": 1742360634.853457, "is_keypad": 0}
+{"event_type": "down", "scan_code": 59, "name": "ctrl", "time": 1742360635.9856782, "is_keypad": 0}
+{"event_type": "down", "scan_code": 8, "time": 1742360636.236817, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742360636.4331021, "is_keypad": 0}
+{"event_type": "down", "scan_code": 8, "time": 1742360636.564865, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742360636.7046862, "is_keypad": 0}
+{"event_type": "up", "scan_code": 59, "name": "ctrl", "time": 1742360636.885532, "is_keypad": 0}
+{"event_type": "down", "scan_code": 126, "name": "up", "time": 1742360636.982286, "is_keypad": 2097152}
+{"event_type": "up", "scan_code": 126, "name": "up", "time": 1742360637.098288, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742360637.520899, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742360637.64127, "is_keypad": 0}
+{"event_type": "down", "scan_code": 48, "name": "tab", "time": 1742360638.759517, "is_keypad": 0}
+{"event_type": "up", "scan_code": 48, "name": "tab", "time": 1742360638.972244, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742360639.0335228, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742360639.156904, "is_keypad": 0}
+{"event_type": "down", "scan_code": 3, "time": 1742360639.862742, "is_keypad": 0}
+{"event_type": "up", "scan_code": 3, "time": 1742360639.998967, "is_keypad": 0}
+{"event_type": "down", "scan_code": 3, "time": 1742360640.447382, "is_keypad": 0}
+{"event_type": "up", "scan_code": 3, "time": 1742360640.571607, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360640.966646, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360641.1056142, "is_keypad": 0}
+{"event_type": "down", "scan_code": 40, "time": 1742360641.467133, "is_keypad": 0}
+{"event_type": "up", "scan_code": 40, "time": 1742360641.575697, "is_keypad": 0}
+{"event_type": "down", "scan_code": 38, "time": 1742360642.005846, "is_keypad": 0}
+{"event_type": "up", "scan_code": 38, "time": 1742360642.109948, "is_keypad": 0}
+{"event_type": "down", "scan_code": 40, "time": 1742360642.367157, "is_keypad": 0}
+{"event_type": "up", "scan_code": 40, "time": 1742360642.4675379, "is_keypad": 0}
+{"event_type": "down", "scan_code": 38, "time": 1742360643.742157, "is_keypad": 0}
+{"event_type": "up", "scan_code": 38, "time": 1742360643.882406, "is_keypad": 0}
+{"event_type": "down", "scan_code": 38, "time": 1742360644.4172428, "is_keypad": 0}
+{"event_type": "up", "scan_code": 38, "time": 1742360644.557445, "is_keypad": 0}
+{"event_type": "down", "scan_code": 38, "time": 1742360644.9521961, "is_keypad": 0}
+{"event_type": "down", "scan_code": 40, "time": 1742360644.9529102, "is_keypad": 0}
+{"event_type": "up", "scan_code": 38, "time": 1742360645.067978, "is_keypad": 0}
+{"event_type": "up", "scan_code": 40, "time": 1742360645.092391, "is_keypad": 0}
+{"event_type": "down", "scan_code": 38, "time": 1742360645.567103, "is_keypad": 0}
+{"event_type": "up", "scan_code": 38, "time": 1742360645.671315, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360646.020285, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360646.136229, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742360646.491919, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742360646.6325061, "is_keypad": 0}
+{"event_type": "down", "scan_code": 4, "time": 1742360646.9091148, "is_keypad": 0}
+{"event_type": "up", "scan_code": 4, "time": 1742360647.005406, "is_keypad": 0}
+{"event_type": "down", "scan_code": 40, "time": 1742360647.605209, "is_keypad": 0}
+{"event_type": "up", "scan_code": 40, "time": 1742360647.7493892, "is_keypad": 0}
+{"event_type": "down", "scan_code": 38, "time": 1742360648.123012, "is_keypad": 0}
+{"event_type": "up", "scan_code": 38, "time": 1742360648.248651, "is_keypad": 0}
+{"event_type": "down", "scan_code": 59, "name": "ctrl", "time": 1742360649.3567119, "is_keypad": 0}
+{"event_type": "up", "scan_code": 59, "name": "ctrl", "time": 1742360649.392831, "is_keypad": 0}
+{"event_type": "down", "scan_code": 59, "name": "ctrl", "time": 1742360649.49552, "is_keypad": 0}
+{"event_type": "up", "scan_code": 59, "name": "ctrl", "time": 1742360649.711881, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742360650.1404748, "is_keypad": 0}
+{"event_type": "down", "scan_code": 126, "name": "up", "time": 1742360650.320351, "is_keypad": 2097152}
+{"event_type": "up", "scan_code": 126, "name": "up", "time": 1742360650.424581, "is_keypad": 2097152}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742360650.688999, "is_keypad": 0}
+{"event_type": "down", "scan_code": 38, "time": 1742360651.1618571, "is_keypad": 0}
+{"event_type": "up", "scan_code": 38, "time": 1742360651.29411, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742360651.6379242, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742360651.742454, "is_keypad": 0}
+{"event_type": "down", "scan_code": 4, "time": 1742360651.781825, "is_keypad": 0}
+{"event_type": "up", "scan_code": 4, "time": 1742360651.879696, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742360652.147082, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742360652.243298, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742360652.298074, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742360652.3786, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742360652.598228, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742360652.7023842, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742360652.774007, "is_keypad": 0}
+{"event_type": "down", "scan_code": 4, "time": 1742360652.8579478, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742360652.899279, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742360652.9553769, "is_keypad": 0}
+{"event_type": "up", "scan_code": 4, "time": 1742360652.960795, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742360653.050189, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742360653.0776079, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742360653.1819751, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742360653.185481, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742360653.269971, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742360653.277683, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742360653.382545, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742360653.398676, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742360653.499458, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742360653.510589, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742360653.611097, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742360653.6767948, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742360653.777194, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742360653.797485, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742360653.9265869, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742360653.9908102, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742360654.083671, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742360654.249436, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742360654.369925, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742360654.373496, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742360654.477966, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742360654.485527, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742360654.605899, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742360654.9172611, "is_keypad": 0}
+{"event_type": "down", "scan_code": 2, "time": 1742360654.9722428, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742360655.016953, "is_keypad": 0}
+{"event_type": "up", "scan_code": 2, "time": 1742360655.129178, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742360655.182548, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742360655.2869859, "is_keypad": 0}
+{"event_type": "down", "scan_code": 13, "time": 1742360655.388819, "is_keypad": 0}
+{"event_type": "down", "scan_code": 4, "time": 1742360655.516573, "is_keypad": 0}
+{"event_type": "up", "scan_code": 13, "time": 1742360655.528013, "is_keypad": 0}
+{"event_type": "up", "scan_code": 4, "time": 1742360655.613461, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742360655.705271, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742360655.8044999, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742360655.815694, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742360655.9334772, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742360655.953832, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742360656.061978, "is_keypad": 0}
+{"event_type": "down", "scan_code": 4, "time": 1742360656.069463, "is_keypad": 0}
+{"event_type": "up", "scan_code": 4, "time": 1742360656.1581252, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742360656.23481, "is_keypad": 0}
+{"event_type": "down", "scan_code": 32, "time": 1742360656.295268, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742360656.355346, "is_keypad": 0}
+{"event_type": "up", "scan_code": 32, "time": 1742360656.374762, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360656.451735, "is_keypad": 0}
+{"event_type": "down", "scan_code": 2, "time": 1742360656.587542, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360656.610668, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742360656.626536, "is_keypad": 0}
+{"event_type": "up", "scan_code": 2, "time": 1742360656.6876101, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742360656.74847, "is_keypad": 0}
+{"event_type": "down", "scan_code": 59, "name": "ctrl", "time": 1742360658.047429, "is_keypad": 0}
+{"event_type": "down", "scan_code": 56, "name": "shift", "time": 1742360658.831406, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360659.199169, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360659.287267, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360659.4071429, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360659.479489, "is_keypad": 0}
+{"event_type": "up", "scan_code": 56, "name": "shift", "time": 1742360659.727517, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360659.919379, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360659.9953651, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742360660.723379, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360660.931226, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360661.019304, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360661.167077, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360661.239276, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742360661.367121, "is_keypad": 0}
+{"event_type": "down", "scan_code": 58, "name": "alt", "time": 1742360661.8673348, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360662.131074, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360662.231194, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360662.342908, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360662.43135, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360662.5190148, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360662.6022558, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360662.707115, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360662.79125, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360663.26722, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360663.335005, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360663.451993, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360663.5231261, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360663.623177, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360663.7115, "is_keypad": 0}
+{"event_type": "up", "scan_code": 59, "name": "ctrl", "time": 1742360663.9112499, "is_keypad": 0}
+{"event_type": "up", "scan_code": 58, "name": "alt", "time": 1742360663.918738, "is_keypad": 0}
+{"event_type": "down", "scan_code": 58, "name": "alt", "time": 1742360664.371317, "is_keypad": 0}
+{"event_type": "down", "scan_code": 56, "name": "shift", "time": 1742360664.447097, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360664.7793589, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360664.914911, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360665.014813, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360665.095296, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360665.179086, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360665.279181, "is_keypad": 0}
+{"event_type": "up", "scan_code": 56, "name": "shift", "time": 1742360665.310325, "is_keypad": 0}
+{"event_type": "up", "scan_code": 58, "name": "alt", "time": 1742360665.339236, "is_keypad": 0}
+{"event_type": "down", "scan_code": 59, "name": "ctrl", "time": 1742360665.5673862, "is_keypad": 0}
+{"event_type": "down", "scan_code": 56, "name": "shift", "time": 1742360665.626465, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360665.855071, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360665.951139, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360666.062828, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360666.106851, "is_keypad": 0}
+{"event_type": "up", "scan_code": 56, "name": "shift", "time": 1742360666.149985, "is_keypad": 0}
+{"event_type": "up", "scan_code": 59, "name": "ctrl", "time": 1742360666.179382, "is_keypad": 0}
+{"event_type": "down", "scan_code": 58, "name": "alt", "time": 1742360666.62198, "is_keypad": 0}
+{"event_type": "up", "scan_code": 58, "name": "alt", "time": 1742360666.778462, "is_keypad": 0}
+{"event_type": "down", "scan_code": 59, "name": "ctrl", "time": 1742360668.782917, "is_keypad": 0}
+{"event_type": "down", "scan_code": 56, "name": "shift", "time": 1742360668.938758, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360669.371118, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360669.455083, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360669.5549052, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360669.634912, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360669.7229571, "is_keypad": 0}
+{"event_type": "up", "scan_code": 56, "name": "shift", "time": 1742360669.7573252, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360669.810634, "is_keypad": 0}
+{"event_type": "up", "scan_code": 59, "name": "ctrl", "time": 1742360670.0353558, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742360670.4226801, "is_keypad": 0}
+{"event_type": "down", "scan_code": 56, "name": "shift", "time": 1742360670.586955, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360670.799076, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360670.902844, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360671.010798, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360671.0908108, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360671.179053, "is_keypad": 0}
+{"event_type": "up", "scan_code": 56, "name": "shift", "time": 1742360671.238562, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360671.270934, "is_keypad": 0}
+{"event_type": "down", "scan_code": 56, "name": "shift", "time": 1742360671.402708, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360671.599148, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360671.694734, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360671.787009, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360671.870912, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360671.9788558, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360672.058848, "is_keypad": 0}
+{"event_type": "down", "scan_code": 24, "time": 1742360672.502647, "is_keypad": 0}
+{"event_type": "up", "scan_code": 24, "time": 1742360672.594903, "is_keypad": 0}
+{"event_type": "up", "scan_code": 56, "name": "shift", "time": 1742360672.850833, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742360672.8834019, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360673.7596722, "is_keypad": 0}
+{"event_type": "down", "scan_code": 2, "time": 1742360673.88704, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742360673.894469, "is_keypad": 0}
+{"event_type": "down", "scan_code": 38, "time": 1742360673.927007, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360673.9273238, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742360674.0188422, "is_keypad": 0}
+{"event_type": "up", "scan_code": 38, "time": 1742360674.030682, "is_keypad": 0}
+{"event_type": "up", "scan_code": 2, "time": 1742360674.079691, "is_keypad": 0}
+{"event_type": "down", "scan_code": 3, "time": 1742360674.0800781, "is_keypad": 0}
+{"event_type": "down", "scan_code": 38, "time": 1742360674.1551511, "is_keypad": 0}
+{"event_type": "up", "scan_code": 3, "time": 1742360674.183394, "is_keypad": 0}
+{"event_type": "up", "scan_code": 38, "time": 1742360674.1982, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742360674.4927208, "is_keypad": 0}
+{"event_type": "down", "scan_code": 4, "time": 1742360674.564338, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742360674.6201978, "is_keypad": 0}
+{"event_type": "up", "scan_code": 4, "time": 1742360674.676159, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742360674.710172, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742360674.826229, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742360674.847327, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742360674.88338, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742360674.9356139, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742360674.995928, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742360675.0244749, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742360675.136698, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742360675.139595, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742360675.2616498, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742360675.288021, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742360675.356559, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742360675.385827, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742360675.510807, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742360675.5354939, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742360675.6633909, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742360675.670955, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742360675.7998478, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742360675.940458, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742360676.011849, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742360676.072781, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742360676.176522, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742360676.2216058, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742360676.3344471, "is_keypad": 0}
+{"event_type": "down", "scan_code": 13, "time": 1742360676.490293, "is_keypad": 0}
+{"event_type": "down", "scan_code": 4, "time": 1742360676.602117, "is_keypad": 0}
+{"event_type": "up", "scan_code": 13, "time": 1742360676.609351, "is_keypad": 0}
+{"event_type": "up", "scan_code": 4, "time": 1742360676.701827, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742360676.797622, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742360676.918263, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742360676.933604, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742360677.0627682, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742360677.430549, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742360677.554849, "is_keypad": 0}
+{"event_type": "down", "scan_code": 15, "time": 1742360677.648288, "is_keypad": 0}
+{"event_type": "up", "scan_code": 15, "time": 1742360677.729161, "is_keypad": 0}
+{"event_type": "down", "scan_code": 15, "time": 1742360677.809776, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742360677.9173682, "is_keypad": 0}
+{"event_type": "up", "scan_code": 15, "time": 1742360677.924278, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742360678.033563, "is_keypad": 0}
+{"event_type": "down", "scan_code": 15, "time": 1742360678.036619, "is_keypad": 0}
+{"event_type": "up", "scan_code": 15, "time": 1742360678.177345, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742360678.264215, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742360678.4084659, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360679.715484, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360679.843521, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360679.927465, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360680.0238001, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742360680.116918, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742360680.229385, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360681.044301, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360681.168641, "is_keypad": 0}
+{"event_type": "down", "scan_code": 38, "time": 1742360681.2264361, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360681.290594, "is_keypad": 0}
+{"event_type": "up", "scan_code": 38, "time": 1742360681.304898, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360681.414848, "is_keypad": 0}
+{"event_type": "down", "scan_code": 38, "time": 1742360681.445909, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360681.453294, "is_keypad": 0}
+{"event_type": "down", "scan_code": 41, "time": 1742360681.4985359, "is_keypad": 0}
+{"event_type": "down", "scan_code": 40, "time": 1742360681.509185, "is_keypad": 0}
+{"event_type": "up", "scan_code": 38, "time": 1742360681.570444, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360681.7098, "is_keypad": 0}
+{"event_type": "up", "scan_code": 41, "time": 1742360681.741815, "is_keypad": 0}
+{"event_type": "up", "scan_code": 40, "time": 1742360681.802736, "is_keypad": 0}
+{"event_type": "down", "scan_code": 41, "time": 1742360681.828604, "is_keypad": 0}
+{"event_type": "up", "scan_code": 41, "time": 1742360681.981504, "is_keypad": 0}
+{"event_type": "down", "scan_code": 40, "time": 1742360681.992991, "is_keypad": 0}
+{"event_type": "down", "scan_code": 38, "time": 1742360682.033518, "is_keypad": 0}
+{"event_type": "up", "scan_code": 40, "time": 1742360682.080875, "is_keypad": 0}
+{"event_type": "up", "scan_code": 38, "time": 1742360682.120484, "is_keypad": 0}
+{"event_type": "down", "scan_code": 41, "time": 1742360682.2014132, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360682.204501, "is_keypad": 0}
+{"event_type": "down", "scan_code": 40, "time": 1742360682.224726, "is_keypad": 0}
+{"event_type": "up", "scan_code": 41, "time": 1742360682.3528981, "is_keypad": 0}
+{"event_type": "up", "scan_code": 40, "time": 1742360682.396367, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360682.404417, "is_keypad": 0}
+{"event_type": "down", "scan_code": 59, "name": "ctrl", "time": 1742360684.0672379, "is_keypad": 0}
+{"event_type": "down", "scan_code": 8, "time": 1742360684.339363, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742360684.458904, "is_keypad": 0}
+{"event_type": "down", "scan_code": 8, "time": 1742360684.870712, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742360684.9755032, "is_keypad": 0}
+{"event_type": "up", "scan_code": 59, "name": "ctrl", "time": 1742360685.008349, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742360685.329767, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742360685.462336, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742360685.481598, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742360685.6222239, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742360686.125216, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742360686.2410262, "is_keypad": 0}
+{"event_type": "down", "scan_code": 126, "name": "up", "time": 1742360686.937276, "is_keypad": 2097152}
+{"event_type": "up", "scan_code": 126, "name": "up", "time": 1742360687.0375848, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 126, "name": "up", "time": 1742360687.2523851, "is_keypad": 2097152}
+{"event_type": "up", "scan_code": 126, "name": "up", "time": 1742360687.344416, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 126, "name": "up", "time": 1742360687.673449, "is_keypad": 2097152}
+{"event_type": "up", "scan_code": 126, "name": "up", "time": 1742360687.773611, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 126, "name": "up", "time": 1742360687.980116, "is_keypad": 2097152}
+{"event_type": "up", "scan_code": 126, "name": "up", "time": 1742360688.072591, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 126, "name": "up", "time": 1742360688.295224, "is_keypad": 2097152}
+{"event_type": "up", "scan_code": 126, "name": "up", "time": 1742360688.379582, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 126, "name": "up", "time": 1742360688.507531, "is_keypad": 2097152}
+{"event_type": "up", "scan_code": 126, "name": "up", "time": 1742360688.537696, "is_keypad": 2097152}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742360688.833396, "is_keypad": 0}
+{"event_type": "down", "scan_code": 58, "name": "alt", "time": 1742360688.8404522, "is_keypad": 0}
+{"event_type": "up", "scan_code": 58, "name": "alt", "time": 1742360688.917501, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742360688.92051, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742360689.574898, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742360689.6717381, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742360689.7064152, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742360689.7825658, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742360690.076274, "is_keypad": 0}
+{"event_type": "down", "scan_code": 48, "name": "tab", "time": 1742360690.200068, "is_keypad": 0}
+{"event_type": "up", "scan_code": 48, "name": "tab", "time": 1742360690.336305, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742360690.588657, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742360691.106477, "is_keypad": 0}
+{"event_type": "down", "scan_code": 48, "name": "tab", "time": 1742360691.15621, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742360691.28686, "is_keypad": 0}
+{"event_type": "up", "scan_code": 48, "name": "tab", "time": 1742360691.287143, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742360691.7181818, "is_keypad": 0}
+{"event_type": "down", "scan_code": 50, "time": 1742360691.918163, "is_keypad": 0}
+{"event_type": "up", "scan_code": 50, "time": 1742360692.03833, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742360692.094005, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742360692.362119, "is_keypad": 0}
+{"event_type": "down", "scan_code": 50, "time": 1742360692.454252, "is_keypad": 0}
+{"event_type": "up", "scan_code": 50, "time": 1742360692.5611079, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742360692.633791, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742360692.738333, "is_keypad": 0}
+{"event_type": "down", "scan_code": 50, "time": 1742360692.782243, "is_keypad": 0}
+{"event_type": "up", "scan_code": 50, "time": 1742360692.9333608, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742360692.9450822, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742362478.841748, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742362478.953398, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742362479.025005, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742362479.068716, "is_keypad": 0}
+{"event_type": "down", "scan_code": 18, "time": 1742362486.760118, "is_keypad": 0}
+{"event_type": "up", "scan_code": 18, "time": 1742362486.849078, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362487.014519, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362487.07853, "is_keypad": 0}
+{"event_type": "down", "scan_code": 18, "time": 1742362488.886132, "is_keypad": 0}
+{"event_type": "up", "scan_code": 18, "time": 1742362488.945741, "is_keypad": 0}
+{"event_type": "down", "scan_code": 18, "time": 1742362489.030549, "is_keypad": 0}
+{"event_type": "up", "scan_code": 18, "time": 1742362489.109888, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362489.289293, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362489.365107, "is_keypad": 0}
+{"event_type": "down", "scan_code": 40, "time": 1742362493.859655, "is_keypad": 0}
+{"event_type": "up", "scan_code": 40, "time": 1742362493.929659, "is_keypad": 0}
+{"event_type": "down", "scan_code": 15, "time": 1742362493.942295, "is_keypad": 0}
+{"event_type": "up", "scan_code": 15, "time": 1742362494.0088909, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742362494.033667, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742362494.113101, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742362494.169704, "is_keypad": 0}
+{"event_type": "down", "scan_code": 4, "time": 1742362494.258781, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742362494.2594612, "is_keypad": 0}
+{"event_type": "up", "scan_code": 4, "time": 1742362494.309359, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742362494.406015, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742362494.4669209, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362496.199404, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362496.304426, "is_keypad": 0}
+{"event_type": "down", "scan_code": 25, "time": 1742362497.6817222, "is_keypad": 0}
+{"event_type": "up", "scan_code": 25, "time": 1742362497.741778, "is_keypad": 0}
+{"event_type": "down", "scan_code": 25, "time": 1742362498.746031, "is_keypad": 0}
+{"event_type": "up", "scan_code": 25, "time": 1742362498.805562, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362499.56429, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362499.6449, "is_keypad": 0}
+{"event_type": "down", "scan_code": 16, "time": 1742362500.9791548, "is_keypad": 0}
+{"event_type": "up", "scan_code": 16, "time": 1742362501.0557818, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362501.2561831, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362501.33971, "is_keypad": 0}
+{"event_type": "down", "scan_code": 19, "time": 1742362503.478183, "is_keypad": 0}
+{"event_type": "up", "scan_code": 19, "time": 1742362503.54259, "is_keypad": 0}
+{"event_type": "down", "scan_code": 18, "time": 1742362503.657055, "is_keypad": 0}
+{"event_type": "up", "scan_code": 18, "time": 1742362503.752728, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362504.5969868, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362504.641382, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742362506.482107, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742362506.542374, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742362506.858211, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742362506.945364, "is_keypad": 0}
+{"event_type": "down", "scan_code": 40, "time": 1742362507.135746, "is_keypad": 0}
+{"event_type": "up", "scan_code": 40, "time": 1742362507.2323, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742362507.442801, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742362507.526816, "is_keypad": 0}
+{"event_type": "down", "scan_code": 4, "time": 1742362507.5953128, "is_keypad": 0}
+{"event_type": "up", "scan_code": 4, "time": 1742362507.66759, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362508.154026, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362508.2223082, "is_keypad": 0}
+{"event_type": "down", "scan_code": 28, "time": 1742362509.953773, "is_keypad": 0}
+{"event_type": "up", "scan_code": 28, "time": 1742362510.026307, "is_keypad": 0}
+{"event_type": "down", "scan_code": 29, "time": 1742362510.205855, "is_keypad": 0}
+{"event_type": "up", "scan_code": 29, "time": 1742362510.269521, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362511.035894, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362511.099348, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742362512.025837, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742362512.11748, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362512.222662, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362512.306481, "is_keypad": 0}
+{"event_type": "down", "scan_code": 23, "time": 1742362513.939877, "is_keypad": 0}
+{"event_type": "up", "scan_code": 23, "time": 1742362514.023206, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362514.147524, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362514.230618, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742362564.100063, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742362564.388549, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742362564.881514, "is_keypad": 0}
+{"event_type": "down", "scan_code": 8, "time": 1742362565.021676, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742362565.0734332, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742362565.1059892, "is_keypad": 0}
+{"event_type": "down", "scan_code": 8, "time": 1742362574.894473, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742362574.9829051, "is_keypad": 0}
+{"event_type": "down", "scan_code": 4, "time": 1742362575.022329, "is_keypad": 0}
+{"event_type": "up", "scan_code": 4, "time": 1742362575.090595, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742362575.1911528, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742362575.268208, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362575.596468, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362575.668363, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742362580.988769, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742362581.052438, "is_keypad": 0}
+{"event_type": "down", "scan_code": 4, "time": 1742362581.106106, "is_keypad": 0}
+{"event_type": "up", "scan_code": 4, "time": 1742362581.174697, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742362581.26528, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742362581.333065, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742362581.333699, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742362581.4292421, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742362581.4879959, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742362581.5557902, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742362581.681466, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742362581.735737, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742362581.743505, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742362581.7873962, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742362581.908888, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742362581.981792, "is_keypad": 0}
+{"event_type": "down", "scan_code": 46, "time": 1742362582.125004, "is_keypad": 0}
+{"event_type": "up", "scan_code": 46, "time": 1742362582.193971, "is_keypad": 0}
+{"event_type": "down", "scan_code": 16, "time": 1742362582.3122518, "is_keypad": 0}
+{"event_type": "up", "scan_code": 16, "time": 1742362582.3724318, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742362582.4916348, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742362582.567156, "is_keypad": 0}
+{"event_type": "down", "scan_code": 8, "time": 1742362582.5969589, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742362582.68157, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742362582.7967339, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742362582.8733141, "is_keypad": 0}
+{"event_type": "down", "scan_code": 2, "time": 1742362582.9610538, "is_keypad": 0}
+{"event_type": "up", "scan_code": 2, "time": 1742362583.0254872, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742362583.098442, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742362583.173949, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742362583.225288, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742362583.2936141, "is_keypad": 0}
+{"event_type": "down", "scan_code": 3, "time": 1742362583.383631, "is_keypad": 0}
+{"event_type": "up", "scan_code": 3, "time": 1742362583.4482172, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742362583.516093, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742362583.5914629, "is_keypad": 0}
+{"event_type": "down", "scan_code": 15, "time": 1742362583.612513, "is_keypad": 0}
+{"event_type": "up", "scan_code": 15, "time": 1742362583.682448, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742362583.7599711, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742362583.8324978, "is_keypad": 0}
+{"event_type": "down", "scan_code": 4, "time": 1742362583.941275, "is_keypad": 0}
+{"event_type": "up", "scan_code": 4, "time": 1742362584.000532, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742362584.163062, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742362584.2554219, "is_keypad": 0}
+{"event_type": "down", "scan_code": 4, "time": 1742362584.3020532, "is_keypad": 0}
+{"event_type": "up", "scan_code": 4, "time": 1742362584.349708, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742362584.5410938, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742362584.609687, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742362584.713333, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742362584.777577, "is_keypad": 0}
+{"event_type": "down", "scan_code": 5, "time": 1742362584.882941, "is_keypad": 0}
+{"event_type": "up", "scan_code": 5, "time": 1742362584.943074, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742362585.0570838, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742362585.121224, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742362585.44826, "is_keypad": 0}
+{"event_type": "down", "scan_code": 9, "time": 1742362585.540301, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742362585.589987, "is_keypad": 0}
+{"event_type": "up", "scan_code": 9, "time": 1742362585.6430771, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362586.315836, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362586.396229, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742362601.355467, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742362601.448056, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742362601.490411, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742362601.56713, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742362601.755784, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742362601.8321521, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742362602.233184, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742362602.3095622, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742362602.417907, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742362602.478008, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742362602.570632, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742362602.638786, "is_keypad": 0}
+{"event_type": "down", "scan_code": 46, "time": 1742362602.7305632, "is_keypad": 0}
+{"event_type": "up", "scan_code": 46, "time": 1742362602.835043, "is_keypad": 0}
+{"event_type": "down", "scan_code": 16, "time": 1742362602.942444, "is_keypad": 0}
+{"event_type": "up", "scan_code": 16, "time": 1742362603.0029619, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742362603.11582, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742362603.2041159, "is_keypad": 0}
+{"event_type": "down", "scan_code": 13, "time": 1742362603.2463932, "is_keypad": 0}
+{"event_type": "up", "scan_code": 13, "time": 1742362603.3230999, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742362603.3664079, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742362603.458483, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742362603.596669, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742362603.672302, "is_keypad": 0}
+{"event_type": "down", "scan_code": 4, "time": 1742362603.775254, "is_keypad": 0}
+{"event_type": "up", "scan_code": 4, "time": 1742362603.8279412, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742362603.90498, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742362603.993723, "is_keypad": 0}
+{"event_type": "down", "scan_code": 15, "time": 1742362604.009355, "is_keypad": 0}
+{"event_type": "up", "scan_code": 15, "time": 1742362604.114881, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742362604.1871622, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742362604.283443, "is_keypad": 0}
+{"event_type": "down", "scan_code": 35, "time": 1742362604.557427, "is_keypad": 0}
+{"event_type": "up", "scan_code": 35, "time": 1742362604.617368, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742362604.714578, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742362604.7700732, "is_keypad": 0}
+{"event_type": "down", "scan_code": 8, "time": 1742362605.028466, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742362605.109096, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742362605.207767, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742362605.287931, "is_keypad": 0}
+{"event_type": "down", "scan_code": 46, "time": 1742362605.3763971, "is_keypad": 0}
+{"event_type": "up", "scan_code": 46, "time": 1742362605.452607, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742362605.476053, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742362605.556117, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742362605.5595038, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742362605.625963, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742362605.703735, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742362605.7675798, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742362605.8125088, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742362605.880231, "is_keypad": 0}
+{"event_type": "down", "scan_code": 3, "time": 1742362606.053399, "is_keypad": 0}
+{"event_type": "up", "scan_code": 3, "time": 1742362606.141033, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742362606.201441, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742362606.2655349, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742362606.5438058, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742362606.643937, "is_keypad": 0}
+{"event_type": "down", "scan_code": 32, "time": 1742362606.8278909, "is_keypad": 0}
+{"event_type": "up", "scan_code": 32, "time": 1742362606.900286, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742362607.017233, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742362607.078926, "is_keypad": 0}
+{"event_type": "down", "scan_code": 8, "time": 1742362607.116278, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742362607.188511, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742362607.318315, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742362607.386174, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742362607.4426508, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742362607.506988, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742362607.571058, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742362607.640449, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742362607.761984, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742362607.8103218, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742362607.883379, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742362607.94709, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742362629.5332649, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742362629.611001, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742362629.6961322, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742362629.792236, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742362629.9153368, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742362629.9870532, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742362630.032865, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742362630.105574, "is_keypad": 0}
+{"event_type": "down", "scan_code": 15, "time": 1742362630.202888, "is_keypad": 0}
+{"event_type": "up", "scan_code": 15, "time": 1742362630.246689, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742362630.598455, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742362630.6744902, "is_keypad": 0}
+{"event_type": "down", "scan_code": 15, "time": 1742362630.910312, "is_keypad": 0}
+{"event_type": "up", "scan_code": 15, "time": 1742362630.9858189, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742362631.042932, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742362631.115511, "is_keypad": 0}
+{"event_type": "down", "scan_code": 35, "time": 1742362631.9302132, "is_keypad": 0}
+{"event_type": "up", "scan_code": 35, "time": 1742362632.018353, "is_keypad": 0}
+{"event_type": "down", "scan_code": 15, "time": 1742362632.025068, "is_keypad": 0}
+{"event_type": "up", "scan_code": 15, "time": 1742362632.101994, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742362632.1586308, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742362632.2266839, "is_keypad": 0}
+{"event_type": "down", "scan_code": 11, "time": 1742362632.475224, "is_keypad": 0}
+{"event_type": "up", "scan_code": 11, "time": 1742362632.5347798, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742362632.68239, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742362632.7624, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742362632.8782122, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742362632.958178, "is_keypad": 0}
+{"event_type": "down", "scan_code": 5, "time": 1742362633.057297, "is_keypad": 0}
+{"event_type": "up", "scan_code": 5, "time": 1742362633.112523, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742362633.220777, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742362633.305274, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742362633.4902341, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742362633.553944, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742362633.664652, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742362633.732707, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742362633.753601, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742362633.827554, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742362633.9172359, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742362633.9733372, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742362634.0857558, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742362634.1620219, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742362634.220781, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742362634.309338, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742362634.3392482, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742362634.4202619, "is_keypad": 0}
+{"event_type": "down", "scan_code": 13, "time": 1742362635.124353, "is_keypad": 0}
+{"event_type": "up", "scan_code": 13, "time": 1742362635.1991942, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742362635.2890182, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742362635.369407, "is_keypad": 0}
+{"event_type": "down", "scan_code": 15, "time": 1742362635.4134111, "is_keypad": 0}
+{"event_type": "up", "scan_code": 15, "time": 1742362635.490446, "is_keypad": 0}
+{"event_type": "down", "scan_code": 40, "time": 1742362635.813735, "is_keypad": 0}
+{"event_type": "up", "scan_code": 40, "time": 1742362635.8740962, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742362635.9499478, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742362636.02973, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742362636.1403751, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742362636.2082229, "is_keypad": 0}
+{"event_type": "down", "scan_code": 5, "time": 1742362636.286656, "is_keypad": 0}
+{"event_type": "up", "scan_code": 5, "time": 1742362636.3544059, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742362636.471189, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742362636.538781, "is_keypad": 0}
+{"event_type": "down", "scan_code": 13, "time": 1742362636.911359, "is_keypad": 0}
+{"event_type": "up", "scan_code": 13, "time": 1742362636.9746501, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742362637.051083, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742362637.119377, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742362637.236493, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742362637.2810009, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742362637.354516, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742362637.4313338, "is_keypad": 0}
+{"event_type": "down", "scan_code": 60, "name": "right shift", "time": 1742362638.5509691, "is_keypad": 0}
+{"event_type": "down", "scan_code": 44, "time": 1742362638.695698, "is_keypad": 0}
+{"event_type": "up", "scan_code": 44, "time": 1742362638.727791, "is_keypad": 0}
+{"event_type": "down", "scan_code": 44, "time": 1742362638.822826, "is_keypad": 0}
+{"event_type": "up", "scan_code": 44, "time": 1742362638.850188, "is_keypad": 0}
+{"event_type": "up", "scan_code": 60, "name": "right shift", "time": 1742362638.88832, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742362639.074163, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742362639.146317, "is_keypad": 0}
+{"event_type": "down", "scan_code": 13, "time": 1742362639.2459369, "is_keypad": 0}
+{"event_type": "up", "scan_code": 13, "time": 1742362639.3423219, "is_keypad": 0}
+{"event_type": "down", "scan_code": 4, "time": 1742362639.446605, "is_keypad": 0}
+{"event_type": "up", "scan_code": 4, "time": 1742362639.5112169, "is_keypad": 0}
+{"event_type": "down", "scan_code": 16, "time": 1742362639.756793, "is_keypad": 0}
+{"event_type": "up", "scan_code": 16, "time": 1742362639.844317, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742362639.9830642, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742362640.076394, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742362640.100068, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742362640.1890838, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742362641.966797, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742362642.0464902, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362642.238666, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362642.306022, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742362693.433075, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742362693.499439, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742362693.813113, "is_keypad": 0}
+{"event_type": "down", "scan_code": 9, "time": 1742362693.956629, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742362694.021735, "is_keypad": 0}
+{"event_type": "up", "scan_code": 9, "time": 1742362694.057054, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742362701.2256598, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742362701.289, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742362708.39436, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742362708.4579358, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742362709.6245928, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742362709.696458, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742362712.674091, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742362712.734024, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742362731.6734111, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742362731.773785, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742362735.168088, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742362735.261504, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742362735.4956312, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742362735.583304, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742362735.7563179, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742362735.8521879, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742362736.107608, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742362736.1828449, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742362736.426552, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742362736.453387, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742362740.3048499, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742362740.363799, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742362740.72903, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742362740.8706949, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742362740.9503648, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742362741.0047371, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742362742.074559, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742362742.183701, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742362742.263287, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742362742.31163, "is_keypad": 0}
+{"event_type": "down", "scan_code": 18, "time": 1742362751.121942, "is_keypad": 0}
+{"event_type": "up", "scan_code": 18, "time": 1742362751.212951, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362751.301444, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362751.36967, "is_keypad": 0}
+{"event_type": "down", "scan_code": 18, "time": 1742362752.634517, "is_keypad": 0}
+{"event_type": "up", "scan_code": 18, "time": 1742362752.690953, "is_keypad": 0}
+{"event_type": "down", "scan_code": 18, "time": 1742362752.7561269, "is_keypad": 0}
+{"event_type": "up", "scan_code": 18, "time": 1742362752.832277, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362752.901833, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362752.978915, "is_keypad": 0}
+{"event_type": "down", "scan_code": 40, "time": 1742362753.774848, "is_keypad": 0}
+{"event_type": "up", "scan_code": 40, "time": 1742362753.854323, "is_keypad": 0}
+{"event_type": "down", "scan_code": 15, "time": 1742362753.8998778, "is_keypad": 0}
+{"event_type": "up", "scan_code": 15, "time": 1742362753.9846458, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742362754.008299, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742362754.08143, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742362754.140526, "is_keypad": 0}
+{"event_type": "down", "scan_code": 4, "time": 1742362754.217705, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742362754.224722, "is_keypad": 0}
+{"event_type": "up", "scan_code": 4, "time": 1742362754.281782, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742362754.357364, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742362754.433634, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362754.66467, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362754.737212, "is_keypad": 0}
+{"event_type": "down", "scan_code": 25, "time": 1742362756.4807181, "is_keypad": 0}
+{"event_type": "up", "scan_code": 25, "time": 1742362756.531737, "is_keypad": 0}
+{"event_type": "down", "scan_code": 25, "time": 1742362756.5708969, "is_keypad": 0}
+{"event_type": "up", "scan_code": 25, "time": 1742362756.64727, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362756.988043, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362757.072914, "is_keypad": 0}
+{"event_type": "down", "scan_code": 16, "time": 1742362758.03619, "is_keypad": 0}
+{"event_type": "up", "scan_code": 16, "time": 1742362758.152225, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362758.198678, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362758.266809, "is_keypad": 0}
+{"event_type": "down", "scan_code": 19, "time": 1742362759.706029, "is_keypad": 0}
+{"event_type": "up", "scan_code": 19, "time": 1742362759.78214, "is_keypad": 0}
+{"event_type": "down", "scan_code": 18, "time": 1742362759.860776, "is_keypad": 0}
+{"event_type": "up", "scan_code": 18, "time": 1742362759.949945, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362760.052732, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362760.124481, "is_keypad": 0}
+{"event_type": "down", "scan_code": 16, "time": 1742362761.70976, "is_keypad": 0}
+{"event_type": "up", "scan_code": 16, "time": 1742362761.776907, "is_keypad": 0}
+{"event_type": "down", "scan_code": 32, "time": 1742362761.8453891, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742362761.877436, "is_keypad": 0}
+{"event_type": "up", "scan_code": 32, "time": 1742362761.928941, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742362761.9498172, "is_keypad": 0}
+{"event_type": "down", "scan_code": 4, "time": 1742362762.013697, "is_keypad": 0}
+{"event_type": "up", "scan_code": 4, "time": 1742362762.078356, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362762.3254359, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362762.3849332, "is_keypad": 0}
+{"event_type": "down", "scan_code": 25, "time": 1742362763.0536, "is_keypad": 0}
+{"event_type": "up", "scan_code": 25, "time": 1742362763.10988, "is_keypad": 0}
+{"event_type": "down", "scan_code": 29, "time": 1742362763.185282, "is_keypad": 0}
+{"event_type": "up", "scan_code": 29, "time": 1742362763.253752, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362763.953551, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362764.033937, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742362765.098706, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742362765.150282, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362765.354541, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362765.44182, "is_keypad": 0}
+{"event_type": "down", "scan_code": 23, "time": 1742362768.1144772, "is_keypad": 0}
+{"event_type": "up", "scan_code": 23, "time": 1742362768.2023418, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362768.38146, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362768.461617, "is_keypad": 0}
+{"event_type": "down", "scan_code": 18, "time": 1742362781.483408, "is_keypad": 0}
+{"event_type": "up", "scan_code": 18, "time": 1742362781.584053, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362855.020761, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362855.116888, "is_keypad": 0}
+{"event_type": "down", "scan_code": 20, "time": 1742362857.404781, "is_keypad": 0}
+{"event_type": "up", "scan_code": 20, "time": 1742362857.467565, "is_keypad": 0}
+{"event_type": "down", "scan_code": 19, "time": 1742362857.5657148, "is_keypad": 0}
+{"event_type": "up", "scan_code": 19, "time": 1742362857.655102, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362857.797792, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362857.8901749, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742362859.801568, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742362859.889996, "is_keypad": 0}
+{"event_type": "down", "scan_code": 9, "time": 1742362860.1297028, "is_keypad": 0}
+{"event_type": "up", "scan_code": 9, "time": 1742362860.206229, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742362860.274726, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742362860.3268769, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742362860.4424682, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742362860.4912, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362860.800816, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362860.867624, "is_keypad": 0}
+{"event_type": "down", "scan_code": 28, "time": 1742362862.59263, "is_keypad": 0}
+{"event_type": "up", "scan_code": 28, "time": 1742362862.6491032, "is_keypad": 0}
+{"event_type": "down", "scan_code": 25, "time": 1742362862.757493, "is_keypad": 0}
+{"event_type": "up", "scan_code": 25, "time": 1742362862.8123121, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362863.366551, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362863.442507, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742362865.393504, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742362865.4611049, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362865.576596, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362865.6601338, "is_keypad": 0}
+{"event_type": "down", "scan_code": 23, "time": 1742362867.939457, "is_keypad": 0}
+{"event_type": "up", "scan_code": 23, "time": 1742362868.027936, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742362868.1785018, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742362868.262964, "is_keypad": 0}
+{"event_type": "down", "scan_code": 8, "time": 1742362998.718456, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742362998.8109262, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742362999.140814, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742362999.204934, "is_keypad": 0}
+{"event_type": "down", "scan_code": 16, "time": 1742362999.4263968, "is_keypad": 0}
+{"event_type": "up", "scan_code": 16, "time": 1742362999.4855208, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742362999.86682, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742362999.954834, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742363000.0411031, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742363000.060123, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742363000.4843361, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742363000.4992929, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363000.612221, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363000.701513, "is_keypad": 0}
+{"event_type": "down", "scan_code": 16, "time": 1742363000.798454, "is_keypad": 0}
+{"event_type": "up", "scan_code": 16, "time": 1742363000.874777, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742363000.9998772, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742363001.044127, "is_keypad": 0}
+{"event_type": "down", "scan_code": 32, "time": 1742363001.460361, "is_keypad": 0}
+{"event_type": "up", "scan_code": 32, "time": 1742363001.5292768, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363001.661508, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363001.7338681, "is_keypad": 0}
+{"event_type": "down", "scan_code": 13, "time": 1742363001.759538, "is_keypad": 0}
+{"event_type": "up", "scan_code": 13, "time": 1742363001.819833, "is_keypad": 0}
+{"event_type": "down", "scan_code": 15, "time": 1742363001.941586, "is_keypad": 0}
+{"event_type": "up", "scan_code": 15, "time": 1742363002.014365, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742363002.087522, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742363002.1796238, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742363002.303589, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742363002.383321, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742363002.4228952, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742363002.519664, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363002.537689, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363002.606601, "is_keypad": 0}
+{"event_type": "down", "scan_code": 46, "time": 1742363002.710767, "is_keypad": 0}
+{"event_type": "up", "scan_code": 46, "time": 1742363002.786794, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742363002.8097548, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742363002.8949618, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363003.008289, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363003.0803351, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742363003.218216, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742363003.2948859, "is_keypad": 0}
+{"event_type": "down", "scan_code": 4, "time": 1742363003.342051, "is_keypad": 0}
+{"event_type": "up", "scan_code": 4, "time": 1742363003.426503, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742363003.450658, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742363003.535497, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363003.58438, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363003.6486468, "is_keypad": 0}
+{"event_type": "down", "scan_code": 2, "time": 1742363003.677665, "is_keypad": 0}
+{"event_type": "up", "scan_code": 2, "time": 1742363003.754475, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742363003.875745, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742363003.9384232, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742363003.985444, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742363004.0785, "is_keypad": 0}
+{"event_type": "down", "scan_code": 35, "time": 1742363004.2086809, "is_keypad": 0}
+{"event_type": "up", "scan_code": 35, "time": 1742363004.2854772, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742363004.35764, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742363004.449898, "is_keypad": 0}
+{"event_type": "down", "scan_code": 16, "time": 1742363004.624712, "is_keypad": 0}
+{"event_type": "up", "scan_code": 16, "time": 1742363004.7006762, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363004.841682, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363004.913304, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742363005.858418, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742363005.954517, "is_keypad": 0}
+{"event_type": "down", "scan_code": 2, "time": 1742363005.98751, "is_keypad": 0}
+{"event_type": "up", "scan_code": 2, "time": 1742363006.05968, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363006.086331, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363006.1585522, "is_keypad": 0}
+{"event_type": "down", "scan_code": 2, "time": 1742363006.210482, "is_keypad": 0}
+{"event_type": "up", "scan_code": 2, "time": 1742363006.266627, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742363006.4024692, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742363006.48668, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742363006.5934908, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742363006.6895502, "is_keypad": 0}
+{"event_type": "down", "scan_code": 35, "time": 1742363006.874628, "is_keypad": 0}
+{"event_type": "up", "scan_code": 35, "time": 1742363006.9465091, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742363007.015519, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742363007.10172, "is_keypad": 0}
+{"event_type": "down", "scan_code": 16, "time": 1742363007.296621, "is_keypad": 0}
+{"event_type": "up", "scan_code": 16, "time": 1742363007.3562, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363007.474562, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363007.528726, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742363007.7006872, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742363007.7527392, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742363007.802648, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742363007.8828402, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363008.039306, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363008.103609, "is_keypad": 0}
+{"event_type": "down", "scan_code": 3, "time": 1742363009.970666, "is_keypad": 0}
+{"event_type": "up", "scan_code": 3, "time": 1742363010.0472178, "is_keypad": 0}
+{"event_type": "down", "scan_code": 32, "time": 1742363010.086976, "is_keypad": 0}
+{"event_type": "up", "scan_code": 32, "time": 1742363010.154742, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742363010.2444851, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742363010.316279, "is_keypad": 0}
+{"event_type": "down", "scan_code": 8, "time": 1742363010.3274932, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742363010.39661, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742363010.525326, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742363010.5977302, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742363010.621341, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742363010.6781352, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742363010.741812, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742363010.810647, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742363010.918968, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742363010.9823518, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742363010.99041, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742363011.059158, "is_keypad": 0}
+{"event_type": "down", "scan_code": 60, "name": "right shift", "time": 1742363011.3702888, "is_keypad": 0}
+{"event_type": "down", "scan_code": 44, "time": 1742363011.5059788, "is_keypad": 0}
+{"event_type": "up", "scan_code": 44, "time": 1742363011.565804, "is_keypad": 0}
+{"event_type": "down", "scan_code": 44, "time": 1742363011.605515, "is_keypad": 0}
+{"event_type": "up", "scan_code": 60, "name": "right shift", "time": 1742363011.690284, "is_keypad": 0}
+{"event_type": "up", "scan_code": 44, "time": 1742363011.6975539, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742363011.819298, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742363011.8874009, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742363203.4031959, "is_keypad": 0}
+{"event_type": "down", "scan_code": 9, "time": 1742363203.500715, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742363203.57499, "is_keypad": 0}
+{"event_type": "up", "scan_code": 9, "time": 1742363203.600079, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742363216.854592, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742363217.114591, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742363217.235085, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742363217.268399, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742363227.7480671, "is_keypad": 0}
+{"event_type": "down", "scan_code": 8, "time": 1742363227.888026, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742363227.956034, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742363228.0083241, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742363233.295088, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742363233.361804, "is_keypad": 0}
+{"event_type": "down", "scan_code": 48, "name": "tab", "time": 1742363233.929488, "is_keypad": 0}
+{"event_type": "up", "scan_code": 48, "name": "tab", "time": 1742363234.041301, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742363234.6137128, "is_keypad": 0}
+{"event_type": "down", "scan_code": 9, "time": 1742363234.717823, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742363234.7921028, "is_keypad": 0}
+{"event_type": "up", "scan_code": 9, "time": 1742363234.81861, "is_keypad": 0}
+{"event_type": "down", "scan_code": 48, "name": "tab", "time": 1742363236.425057, "is_keypad": 0}
+{"event_type": "up", "scan_code": 48, "name": "tab", "time": 1742363236.499925, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742363239.272913, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742363239.364138, "is_keypad": 0}
+{"event_type": "down", "scan_code": 47, "time": 1742363239.6709929, "is_keypad": 0}
+{"event_type": "up", "scan_code": 47, "time": 1742363239.734986, "is_keypad": 0}
+{"event_type": "down", "scan_code": 41, "time": 1742363245.8790998, "is_keypad": 0}
+{"event_type": "up", "scan_code": 41, "time": 1742363245.9418612, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742363246.124501, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742363246.264811, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742363246.319034, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742363246.375927, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742363247.192541, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742363247.3406012, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742363247.419391, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742363247.480424, "is_keypad": 0}
+{"event_type": "down", "scan_code": 21, "time": 1742363257.85267, "is_keypad": 0}
+{"event_type": "up", "scan_code": 21, "time": 1742363257.8836899, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742363258.164591, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742363258.238789, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742363328.294678, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742363328.3281438, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742363328.435852, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742363328.478325, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742363328.555362, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742363328.6297312, "is_keypad": 0}
+{"event_type": "down", "scan_code": 13, "time": 1742363329.299565, "is_keypad": 0}
+{"event_type": "up", "scan_code": 13, "time": 1742363329.4038699, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742363337.57515, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742363337.691539, "is_keypad": 0}
+{"event_type": "down", "scan_code": 35, "time": 1742363338.3992152, "is_keypad": 0}
+{"event_type": "up", "scan_code": 35, "time": 1742363338.458951, "is_keypad": 0}
+{"event_type": "down", "scan_code": 35, "time": 1742363338.520628, "is_keypad": 0}
+{"event_type": "up", "scan_code": 35, "time": 1742363338.584955, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742363349.7695549, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742363349.934471, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742363350.497209, "is_keypad": 0}
+{"event_type": "down", "scan_code": 8, "time": 1742363350.628871, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742363350.68469, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742363350.737458, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742363353.717354, "is_keypad": 0}
+{"event_type": "down", "scan_code": 9, "time": 1742363353.884751, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742363353.923188, "is_keypad": 0}
+{"event_type": "up", "scan_code": 9, "time": 1742363353.991453, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742363355.410764, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742363355.4949398, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742363355.60197, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742363355.645785, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363355.710547, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363355.795261, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742363355.814732, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742363355.891627, "is_keypad": 0}
+{"event_type": "down", "scan_code": 4, "time": 1742363355.921608, "is_keypad": 0}
+{"event_type": "up", "scan_code": 4, "time": 1742363355.993424, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742363356.075903, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742363356.114989, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742363356.1599512, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742363356.203566, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363356.311023, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363356.386701, "is_keypad": 0}
+{"event_type": "down", "scan_code": 8, "time": 1742363356.425726, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742363356.505836, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742363356.71935, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742363356.783517, "is_keypad": 0}
+{"event_type": "down", "scan_code": 2, "time": 1742363356.8041291, "is_keypad": 0}
+{"event_type": "up", "scan_code": 2, "time": 1742363356.8415449, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742363356.947225, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742363357.023526, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363357.132792, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363357.217185, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742363357.6109922, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742363357.702843, "is_keypad": 0}
+{"event_type": "down", "scan_code": 3, "time": 1742363357.726433, "is_keypad": 0}
+{"event_type": "up", "scan_code": 3, "time": 1742363357.8022149, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363357.892193, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363357.971494, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742363358.180019, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742363358.260521, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363358.43179, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363358.5072472, "is_keypad": 0}
+{"event_type": "down", "scan_code": 13, "time": 1742363358.5658932, "is_keypad": 0}
+{"event_type": "up", "scan_code": 13, "time": 1742363358.626127, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742363358.831629, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742363358.9043012, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742363358.998803, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742363359.063286, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363359.0790699, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363359.147254, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742363359.639721, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742363359.728103, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742363359.747936, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742363359.812918, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363359.94594, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363360.033963, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742363360.2441878, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742363360.3002539, "is_keypad": 0}
+{"event_type": "down", "scan_code": 35, "time": 1742363360.395613, "is_keypad": 0}
+{"event_type": "up", "scan_code": 35, "time": 1742363360.464743, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742363360.561852, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742363360.645925, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742363360.7558541, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742363360.812027, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363360.91236, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363360.9731772, "is_keypad": 0}
+{"event_type": "down", "scan_code": 3, "time": 1742363361.28601, "is_keypad": 0}
+{"event_type": "up", "scan_code": 3, "time": 1742363361.365449, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742363361.403028, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742363361.4795609, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742363361.582731, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742363361.666205, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742363361.714988, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742363361.796341, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363361.894837, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363361.9665222, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742363364.025768, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742363364.1174212, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742363364.299401, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742363364.349859, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363364.442639, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363364.4989219, "is_keypad": 0}
+{"event_type": "down", "scan_code": 13, "time": 1742363364.613686, "is_keypad": 0}
+{"event_type": "up", "scan_code": 13, "time": 1742363364.702073, "is_keypad": 0}
+{"event_type": "down", "scan_code": 15, "time": 1742363364.849938, "is_keypad": 0}
+{"event_type": "up", "scan_code": 15, "time": 1742363364.917136, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742363365.067769, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742363365.15133, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742363365.294715, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742363365.374523, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742363365.411246, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742363365.480025, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363365.5556989, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363365.6274161, "is_keypad": 0}
+{"event_type": "down", "scan_code": 46, "time": 1742363365.761844, "is_keypad": 0}
+{"event_type": "up", "scan_code": 46, "time": 1742363365.829715, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742363365.976994, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742363366.047461, "is_keypad": 0}
+{"event_type": "down", "scan_code": 2, "time": 1742363366.074948, "is_keypad": 0}
+{"event_type": "up", "scan_code": 2, "time": 1742363366.147851, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742363366.238488, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742363366.3230588, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363366.372532, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363366.444521, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742363366.7697961, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742363366.849164, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742363366.9226098, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742363366.9941728, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363367.1278322, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742363367.183527, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363367.209934, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742363367.2836711, "is_keypad": 0}
+{"event_type": "down", "scan_code": 4, "time": 1742363367.357748, "is_keypad": 0}
+{"event_type": "up", "scan_code": 4, "time": 1742363367.414222, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742363367.528745, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742363367.5887191, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363367.745347, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363367.81307, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742363368.128335, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742363368.2167711, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742363368.35251, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742363368.432013, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363368.578594, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363368.654144, "is_keypad": 0}
+{"event_type": "down", "scan_code": 8, "time": 1742363368.724735, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742363368.806268, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742363368.931644, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742363369.01277, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742363369.062285, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742363369.166511, "is_keypad": 0}
+{"event_type": "down", "scan_code": 15, "time": 1742363369.469774, "is_keypad": 0}
+{"event_type": "up", "scan_code": 15, "time": 1742363369.532601, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742363369.6495621, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742363369.716941, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363369.783193, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363369.85548, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742363369.951849, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742363370.043798, "is_keypad": 0}
+{"event_type": "down", "scan_code": 4, "time": 1742363370.096318, "is_keypad": 0}
+{"event_type": "up", "scan_code": 4, "time": 1742363370.164649, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742363370.227485, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742363370.307806, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363370.3552861, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363370.4071941, "is_keypad": 0}
+{"event_type": "down", "scan_code": 35, "time": 1742363370.686802, "is_keypad": 0}
+{"event_type": "up", "scan_code": 35, "time": 1742363370.7623198, "is_keypad": 0}
+{"event_type": "down", "scan_code": 15, "time": 1742363370.823607, "is_keypad": 0}
+{"event_type": "up", "scan_code": 15, "time": 1742363370.882934, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742363371.006591, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742363371.058235, "is_keypad": 0}
+{"event_type": "down", "scan_code": 8, "time": 1742363371.383551, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742363371.459649, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742363371.8036458, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742363371.855391, "is_keypad": 0}
+{"event_type": "down", "scan_code": 9, "time": 1742363371.9860082, "is_keypad": 0}
+{"event_type": "up", "scan_code": 9, "time": 1742363372.074688, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742363372.092891, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742363372.173988, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742363372.25567, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742363372.331302, "is_keypad": 0}
+{"event_type": "down", "scan_code": 32, "time": 1742363372.449327, "is_keypad": 0}
+{"event_type": "up", "scan_code": 32, "time": 1742363372.525089, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742363372.615327, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742363372.687092, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363372.792325, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363372.856267, "is_keypad": 0}
+{"event_type": "down", "scan_code": 15, "time": 1742363372.912242, "is_keypad": 0}
+{"event_type": "up", "scan_code": 15, "time": 1742363372.95684, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742363373.030336, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742363373.1029491, "is_keypad": 0}
+{"event_type": "down", "scan_code": 8, "time": 1742363373.262536, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742363373.3256068, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742363373.4133801, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742363373.485504, "is_keypad": 0}
+{"event_type": "down", "scan_code": 15, "time": 1742363373.6046531, "is_keypad": 0}
+{"event_type": "up", "scan_code": 15, "time": 1742363373.684844, "is_keypad": 0}
+{"event_type": "down", "scan_code": 2, "time": 1742363373.824517, "is_keypad": 0}
+{"event_type": "up", "scan_code": 2, "time": 1742363373.880203, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742363373.987297, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742363374.0840042, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363374.1458502, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363374.209656, "is_keypad": 0}
+{"event_type": "down", "scan_code": 13, "time": 1742363375.6427479, "is_keypad": 0}
+{"event_type": "up", "scan_code": 13, "time": 1742363375.74212, "is_keypad": 0}
+{"event_type": "down", "scan_code": 4, "time": 1742363375.845946, "is_keypad": 0}
+{"event_type": "up", "scan_code": 4, "time": 1742363375.924493, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742363376.0551229, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742363376.127244, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363376.290549, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363376.374599, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742363376.448975, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742363376.538013, "is_keypad": 0}
+{"event_type": "down", "scan_code": 4, "time": 1742363376.557397, "is_keypad": 0}
+{"event_type": "up", "scan_code": 4, "time": 1742363376.617782, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742363376.963281, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742363377.047431, "is_keypad": 0}
+{"event_type": "down", "scan_code": 32, "time": 1742363377.16051, "is_keypad": 0}
+{"event_type": "up", "scan_code": 32, "time": 1742363377.2235389, "is_keypad": 0}
+{"event_type": "down", "scan_code": 37, "time": 1742363377.3495119, "is_keypad": 0}
+{"event_type": "up", "scan_code": 37, "time": 1742363377.413196, "is_keypad": 0}
+{"event_type": "down", "scan_code": 2, "time": 1742363377.436564, "is_keypad": 0}
+{"event_type": "up", "scan_code": 2, "time": 1742363377.517102, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363377.583348, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363377.651198, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742363377.77849, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742363377.854006, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363377.9588768, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363378.035436, "is_keypad": 0}
+{"event_type": "down", "scan_code": 8, "time": 1742363378.12749, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742363378.199971, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742363378.4440582, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742363378.512616, "is_keypad": 0}
+{"event_type": "down", "scan_code": 5, "time": 1742363378.596788, "is_keypad": 0}
+{"event_type": "up", "scan_code": 5, "time": 1742363378.6615949, "is_keypad": 0}
+{"event_type": "down", "scan_code": 14, "time": 1742363378.710397, "is_keypad": 0}
+{"event_type": "up", "scan_code": 14, "time": 1742363378.7953181, "is_keypad": 0}
+{"event_type": "down", "scan_code": 49, "name": "space", "time": 1742363378.894969, "is_keypad": 0}
+{"event_type": "up", "scan_code": 49, "name": "space", "time": 1742363378.962228, "is_keypad": 0}
+{"event_type": "down", "scan_code": 60, "name": "right shift", "time": 1742363379.675306, "is_keypad": 0}
+{"event_type": "down", "scan_code": 44, "time": 1742363379.886354, "is_keypad": 0}
+{"event_type": "up", "scan_code": 44, "time": 1742363379.927148, "is_keypad": 0}
+{"event_type": "down", "scan_code": 44, "time": 1742363379.992526, "is_keypad": 0}
+{"event_type": "up", "scan_code": 60, "name": "right shift", "time": 1742363380.058382, "is_keypad": 0}
+{"event_type": "up", "scan_code": 44, "time": 1742363380.066489, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742363380.2063942, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742363380.2654998, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742363404.608858, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742363404.711471, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742363405.062725, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742363405.150761, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742363413.244993, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742363413.325584, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742363413.7848818, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742363413.877824, "is_keypad": 0}
+{"event_type": "down", "scan_code": 55, "name": "command", "time": 1742363414.824919, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742363414.957375, "is_keypad": 0}
+{"event_type": "up", "scan_code": 55, "name": "command", "time": 1742363415.0407171, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742363415.0868711, "is_keypad": 0}
+{"event_type": "down", "scan_code": 21, "time": 1742363425.728092, "is_keypad": 0}
+{"event_type": "up", "scan_code": 21, "time": 1742363425.823929, "is_keypad": 0}
+{"event_type": "down", "scan_code": 21, "time": 1742363427.470794, "is_keypad": 0}
+{"event_type": "up", "scan_code": 21, "time": 1742363427.603203, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742363428.591537, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742363428.692052, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742363428.75179, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742363428.815455, "is_keypad": 0}
+{"event_type": "down", "scan_code": 21, "time": 1742363430.868552, "is_keypad": 0}
+{"event_type": "up", "scan_code": 21, "time": 1742363430.9314072, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742363431.201426, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742363431.292029, "is_keypad": 0}
+{"event_type": "down", "scan_code": 18, "time": 1742363443.685175, "is_keypad": 0}
+{"event_type": "up", "scan_code": 18, "time": 1742363443.7614348, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742363443.8792021, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742363443.9392982, "is_keypad": 0}
+{"event_type": "down", "scan_code": 19, "time": 1742363445.490172, "is_keypad": 0}
+{"event_type": "up", "scan_code": 19, "time": 1742363445.552999, "is_keypad": 0}
+{"event_type": "down", "scan_code": 18, "time": 1742363445.647454, "is_keypad": 0}
+{"event_type": "up", "scan_code": 18, "time": 1742363445.7285461, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742363445.8263628, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742363445.886335, "is_keypad": 0}
+{"event_type": "down", "scan_code": 40, "time": 1742363446.972034, "is_keypad": 0}
+{"event_type": "up", "scan_code": 40, "time": 1742363447.056597, "is_keypad": 0}
+{"event_type": "down", "scan_code": 15, "time": 1742363447.1292212, "is_keypad": 0}
+{"event_type": "up", "scan_code": 15, "time": 1742363447.2004192, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742363447.211864, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742363447.292781, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742363447.376438, "is_keypad": 0}
+{"event_type": "down", "scan_code": 4, "time": 1742363447.441024, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742363447.467623, "is_keypad": 0}
+{"event_type": "up", "scan_code": 4, "time": 1742363447.508832, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742363447.58816, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742363447.655905, "is_keypad": 0}
+{"event_type": "down", "scan_code": 51, "name": "delete", "time": 1742363448.639376, "is_keypad": 0}
+{"event_type": "up", "scan_code": 51, "name": "delete", "time": 1742363448.7157388, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742363448.983045, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742363449.07478, "is_keypad": 0}
+{"event_type": "down", "scan_code": 25, "time": 1742363450.601137, "is_keypad": 0}
+{"event_type": "up", "scan_code": 25, "time": 1742363450.681819, "is_keypad": 0}
+{"event_type": "down", "scan_code": 18, "time": 1742363450.8510861, "is_keypad": 0}
+{"event_type": "up", "scan_code": 18, "time": 1742363450.9470878, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742363451.258234, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742363451.3544378, "is_keypad": 0}
+{"event_type": "down", "scan_code": 45, "time": 1742363452.7270138, "is_keypad": 0}
+{"event_type": "up", "scan_code": 45, "time": 1742363452.798922, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742363452.9349692, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742363453.026315, "is_keypad": 0}
+{"event_type": "down", "scan_code": 21, "time": 1742363456.045991, "is_keypad": 0}
+{"event_type": "up", "scan_code": 21, "time": 1742363456.145195, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742363456.313077, "is_keypad": 0}
+{"event_type": "up", "scan_code": 36, "name": "enter", "time": 1742363456.3803341, "is_keypad": 0}
+{"event_type": "down", "scan_code": 8, "time": 1742363697.3435981, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742363697.408483, "is_keypad": 0}
+{"event_type": "down", "scan_code": 1, "time": 1742363697.708477, "is_keypad": 0}
+{"event_type": "up", "scan_code": 1, "time": 1742363697.7615519, "is_keypad": 0}
+{"event_type": "down", "scan_code": 17, "time": 1742363697.952377, "is_keypad": 0}
+{"event_type": "up", "scan_code": 17, "time": 1742363698.024148, "is_keypad": 0}
+{"event_type": "down", "scan_code": 46, "time": 1742363731.548975, "is_keypad": 0}
+{"event_type": "up", "scan_code": 46, "time": 1742363731.6319392, "is_keypad": 0}
+{"event_type": "down", "scan_code": 8, "time": 1742363731.8460422, "is_keypad": 0}
+{"event_type": "up", "scan_code": 8, "time": 1742363731.922313, "is_keypad": 0}
+{"event_type": "down", "scan_code": 11, "time": 1742363731.995946, "is_keypad": 0}
+{"event_type": "up", "scan_code": 11, "time": 1742363732.076333, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742363732.342054, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742363732.4061718, "is_keypad": 0}
+{"event_type": "down", "scan_code": 31, "time": 1742363732.4767082, "is_keypad": 0}
+{"event_type": "up", "scan_code": 31, "time": 1742363732.5413508, "is_keypad": 0}
+{"event_type": "down", "scan_code": 40, "time": 1742363732.610879, "is_keypad": 0}
+{"event_type": "up", "scan_code": 40, "time": 1742363732.68141, "is_keypad": 0}
+{"event_type": "down", "scan_code": 34, "time": 1742363732.803765, "is_keypad": 0}
+{"event_type": "up", "scan_code": 34, "time": 1742363732.8642108, "is_keypad": 0}
+{"event_type": "down", "scan_code": 15, "time": 1742363732.9288828, "is_keypad": 0}
+{"event_type": "up", "scan_code": 15, "time": 1742363733.021111, "is_keypad": 0}
+{"event_type": "down", "scan_code": 36, "name": "enter", "time": 1742363733.1207108, "is_keypad": 0}

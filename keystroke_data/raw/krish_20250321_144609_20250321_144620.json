@@ -1,0 +1,132 @@
+[
+  {
+    "event_type": "down",
+    "name": "m",
+    "time": 1742548573.932603
+  },
+  {
+    "event_type": "up",
+    "name": "m",
+    "time": 1742548573.996362
+  },
+  {
+    "event_type": "down",
+    "name": "o",
+    "time": 1742548574.103948
+  },
+  {
+    "event_type": "up",
+    "name": "o",
+    "time": 1742548574.17201
+  },
+  {
+    "event_type": "down",
+    "name": "Key.space",
+    "time": 1742548574.335028
+  },
+  {
+    "event_type": "up",
+    "name": "Key.space",
+    "time": 1742548574.3886368
+  },
+  {
+    "event_type": "down",
+    "name": "Key.backspace",
+    "time": 1742548575.170675
+  },
+  {
+    "event_type": "up",
+    "name": "Key.backspace",
+    "time": 1742548575.246651
+  },
+  {
+    "event_type": "down",
+    "name": "n",
+    "time": 1742548576.556824
+  },
+  {
+    "event_type": "up",
+    "name": "n",
+    "time": 1742548576.621105
+  },
+  {
+    "event_type": "down",
+    "name": "k",
+    "time": 1742548576.755157
+  },
+  {
+    "event_type": "up",
+    "name": "k",
+    "time": 1742548576.855059
+  },
+  {
+    "event_type": "down",
+    "name": "e",
+    "time": 1742548576.930878
+  },
+  {
+    "event_type": "up",
+    "name": "e",
+    "time": 1742548577.0149162
+  },
+  {
+    "event_type": "down",
+    "name": "y",
+    "time": 1742548577.117642
+  },
+  {
+    "event_type": "up",
+    "name": "y",
+    "time": 1742548577.185759
+  },
+  {
+    "event_type": "down",
+    "name": "t",
+    "time": 1742548577.462956
+  },
+  {
+    "event_type": "up",
+    "name": "t",
+    "time": 1742548577.520172
+  },
+  {
+    "event_type": "down",
+    "name": "y",
+    "time": 1742548577.903616
+  },
+  {
+    "event_type": "up",
+    "name": "y",
+    "time": 1742548577.977034
+  },
+  {
+    "event_type": "down",
+    "name": "p",
+    "time": 1742548578.210261
+  },
+  {
+    "event_type": "up",
+    "name": "p",
+    "time": 1742548578.293559
+  },
+  {
+    "event_type": "down",
+    "name": "e",
+    "time": 1742548578.35297
+  },
+  {
+    "event_type": "up",
+    "name": "e",
+    "time": 1742548578.4203572
+  },
+  {
+    "event_type": "down",
+    "name": "Key.enter",
+    "time": 1742548578.5412931
+  },
+  {
+    "event_type": "up",
+    "name": "Key.enter",
+    "time": 1742548578.6119401
+  }
+]

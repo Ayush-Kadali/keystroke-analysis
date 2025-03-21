@@ -1,0 +1,162 @@
+[
+  {
+    "event_type": "down",
+    "name": "m",
+    "time": 1742359272.5332758
+  },
+  {
+    "event_type": "down",
+    "name": "o",
+    "time": 1742359272.682431
+  },
+  {
+    "event_type": "up",
+    "name": "m",
+    "time": 1742359272.693376
+  },
+  {
+    "event_type": "up",
+    "name": "o",
+    "time": 1742359272.786879
+  },
+  {
+    "event_type": "down",
+    "name": "n",
+    "time": 1742359272.867146
+  },
+  {
+    "event_type": "up",
+    "name": "n",
+    "time": 1742359272.950188
+  },
+  {
+    "event_type": "down",
+    "name": "e",
+    "time": 1742359273.05037
+  },
+  {
+    "event_type": "up",
+    "name": "e",
+    "time": 1742359273.12779
+  },
+  {
+    "event_type": "down",
+    "name": "y",
+    "time": 1742359274.509661
+  },
+  {
+    "event_type": "up",
+    "name": "y",
+    "time": 1742359274.574753
+  },
+  {
+    "event_type": "down",
+    "name": "t",
+    "time": 1742359274.992168
+  },
+  {
+    "event_type": "up",
+    "name": "t",
+    "time": 1742359275.06394
+  },
+  {
+    "event_type": "down",
+    "name": "i",
+    "time": 1742359275.186903
+  },
+  {
+    "event_type": "up",
+    "name": "i",
+    "time": 1742359275.258501
+  },
+  {
+    "event_type": "down",
+    "name": "m",
+    "time": 1742359275.408461
+  },
+  {
+    "event_type": "up",
+    "name": "m",
+    "time": 1742359275.4892402
+  },
+  {
+    "event_type": "down",
+    "name": "e",
+    "time": 1742359275.509002
+  },
+  {
+    "event_type": "up",
+    "name": "e",
+    "time": 1742359275.582239
+  },
+  {
+    "event_type": "down",
+    "name": "Key.backspace",
+    "time": 1742359277.1405811
+  },
+  {
+    "event_type": "up",
+    "name": "Key.backspace",
+    "time": 1742359277.228768
+  },
+  {
+    "event_type": "down",
+    "name": "Key.backspace",
+    "time": 1742359277.317038
+  },
+  {
+    "event_type": "up",
+    "name": "Key.backspace",
+    "time": 1742359277.373447
+  },
+  {
+    "event_type": "down",
+    "name": "Key.backspace",
+    "time": 1742359277.442404
+  },
+  {
+    "event_type": "up",
+    "name": "Key.backspace",
+    "time": 1742359277.510745
+  },
+  {
+    "event_type": "down",
+    "name": "y",
+    "time": 1742359278.353931
+  },
+  {
+    "event_type": "up",
+    "name": "y",
+    "time": 1742359278.397871
+  },
+  {
+    "event_type": "down",
+    "name": "p",
+    "time": 1742359278.781982
+  },
+  {
+    "event_type": "up",
+    "name": "p",
+    "time": 1742359278.8492641
+  },
+  {
+    "event_type": "down",
+    "name": "e",
+    "time": 1742359278.9284852
+  },
+  {
+    "event_type": "up",
+    "name": "e",
+    "time": 1742359279.0033972
+  },
+  {
+    "event_type": "down",
+    "name": "Key.enter",
+    "time": 1742359279.119686
+  },
+  {
+    "event_type": "up",
+    "name": "Key.enter",
+    "time": 1742359279.2035048
+  }
+]

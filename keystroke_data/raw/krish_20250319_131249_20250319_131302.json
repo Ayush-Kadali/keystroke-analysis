@@ -1,0 +1,52 @@
+[
+  {
+    "event_type": "down",
+    "name": "m",
+    "time": 1742370177.346295
+  },
+  {
+    "event_type": "up",
+    "name": "m",
+    "time": 1742370177.410882
+  },
+  {
+    "event_type": "down",
+    "name": "o",
+    "time": 1742370177.5350919
+  },
+  {
+    "event_type": "up",
+    "name": "o",
+    "time": 1742370177.590438
+  },
+  {
+    "event_type": "down",
+    "name": "n",
+    "time": 1742370177.711013
+  },
+  {
+    "event_type": "up",
+    "name": "n",
+    "time": 1742370177.7794402
+  },
+  {
+    "event_type": "down",
+    "name": "e",
+    "time": 1742370177.806599
+  },
+  {
+    "event_type": "up",
+    "name": "e",
+    "time": 1742370177.8842711
+  },
+  {
+    "event_type": "down",
+    "name": "Key.enter",
+    "time": 1742370179.224195
+  },
+  {
+    "event_type": "up",
+    "name": "Key.enter",
+    "time": 1742370179.285208
+  }
+]

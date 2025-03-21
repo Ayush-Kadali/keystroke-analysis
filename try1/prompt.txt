@@ -1,0 +1,459 @@
+I have to make mini projects for our university courses.
+This semester there are two subjects I want to make mini-project on.
+Data engineering concepts
+Artificial Intelligence and Expert systems
+
+Now I am thinking of making a keystroke analysis software with user identification and changing some things like color theme or any other thing that I would decide otherwise, So don't think about it right now.
+
+I am thinking of making a keylogger using python and automatically create the proper dataset when the user is properly typing and it would remove the dataset when the user is just typing some random keys for small time(pressing some keys to run something, and not actually typing a proper para of text).
+This would be my project for data engineering concepts.
+Now update the process of this and try to include the topics from our syllabus which I will attach below Of data engineering concepts.
+
+For the part of AIES(Artificial intelligence and expert systems) mini project.
+I am thinking of creating a model for user identification using keystrokes and it would be trained on the dataset that is given by the dec mini-project(Specified in above para).
+
+How should I go about this process and what all should I do in this.
+
+Here is the syllabus for both of the subjects.
+Data Engineering Concepts
+Course Objectives:
+1. To study the concepts of data engineering
+2. To understand classification, clustering and association rule mining.
+3. To learn the concepts and techniques of data warehousing
+4. To understand the various data mining techniques for classification and clustering
+5. To implement data pre-processing on any dataset.
+6. To perform predictive analysis for any live data.
+Course Outcomes:
+On completion of course, students should be able to
+1. Understand and apply data engineering concepts
+2. Apply data pre-processing techniques on real world data
+3. Apply the appropriate data warehousing architecture and tools for systematically
+organizing database
+4. Analyse algorithms for classification and clustering for solving real world problems in
+data engineering
+Course Contents:
+Unit I Introduction to Data Engineering
+Defining Data Engineering, Overview of the Data Engineering Ecosystem, Data Engineering
+Lifecycle Data objects and attribute types, Data Characteristics, Types of Data, Structured,
+Unstructured, Semi-structured, Discrete, Continuous, Ordinal, Nomual, Qualitative,
+Quantative Time series data, Geographical data.Measures of Central Tendency: Mean,
+Median, Mode, Mid-range.Measures of Dispersion: Range, Variance, Mean Deviation,
+Standard Deviation.
+Unit 2 Data Preprocessing
+Data Preprocessing: An Overview, Methods: Data Cleaning, Data Integration, Data
+Reduction, Data Transformation, Data Discretization. Data Cleaning: Handling Missing
+Values, Noisy Data, Data Cleaning as a Process, Data Integration: Entity Identification
+Problem, Redundancy and Correlation Analysis, Tuple Duplication, Data Value Conflict
+Detection and Resolution, Data Reduction: Attribute Subset Selection, Histograms, Sampling,
+Data discretization – binning, histogram analysis, decision tree and correlation analysis,
+concept hierarchy for nominal data.
+Unit 3 Data Warehouse
+Data warehouse concepts, Data Warehouse Modeling: A Multidimensional Data Model, Data
+Warehouse Design: Stars, Snowflakes, and Fact Constellations Schemas, Data warehouse –
+design and usage, implementation, architectural components, Role of Metadata, Dimensional
+Modelling, Dimensions: The Role of Concept Hierarchies,
+Measures:
+Their
+Categorization and Computation, Materialized views.
+Unit 4 Association Rules Mining
+Market basket Analysis, Frequent item set, Closed item set, Association Rules, a-priori
+Algorithm, Generating Association Rules from Frequent Item sets, Improving the Efficiencyof a-priori, Mining Frequent Item sets without Candidate Generation: FP Growth Algorithm;
+Mining, Generating Rules.
+Unit 5 Data Mining: Classification and Clustering
+Introduction to Data Mining, Data Mining Techniques, Supervised, Semi-Supervised, and
+Unsupervised Methods, Classification: Basic Concepts, Decision Tree Induction, Bayesian
+Classification, Clustering Techniques: Basic concepts, Partition based Clustering k-Means
+
+Data Engineering Concepts Laboratory
+Course Objectives:
+1. To study the concepts of data engineering
+2. To understand classification, clustering and association rule mining.
+3. To learn the concepts and techniques of data warehousing
+4. To understand the various data mining techniques for classification and clustering
+5. To implement data pre-processing on any dataset.
+6. To perform predictive analysis for any live data.
+Course Outcomes:
+On completion of course, students should be able to
+1. Understand and apply data engineering concepts
+2. Apply data pre-processing techniques on real world data
+3. Apply the appropriate data warehousing architecture and tools for systematically
+organizing database
+4. Analyse algorithms for classification and clustering for solving real world problems in data
+engineering
+Laboratory Exercises / Practical:
+1. Data Handling:
+Locreate any open source data. Load data into data frame Perform Data Frame
+OperationsPerform basic statistical operations like mean ,median, standard deviation
+2. Data Preprocessing 01 :Data Cleaning
+3. Data Preprocessing 02 :Data Integration, Normalization, Reduction
+4. Build Datawarehouse in OLAP DW
+5. ETL using Tableau/Statastica/PowerBI
+6. Apply a-priori algorithm to find frequently occurring items from given data and generate
+strong association rules.
+7. Consider a suitable dataset. Apply classification technique and calculate the performance.
+8. Consider a suitable dataset apply different clustering technique.
+9. Mini-project
+Consider a suitable dataset belonging to an application domain. Apply suitable data pre-
+processing steps such as handling of null values, data reduction, discretization. For
+prediction of class labels of given data instances, build classifier models using different
+techniques, analyze the confusion matrix and compare these models. Also apply cross
+validation while preparing the training and testing datasets.
+
+Artificial Intelligence and Expert Systems
+Course Objectives:
+1. To understand the concepts of Artificial Intelligence (AI) and expert systems
+2. To learn various search strategies for AI
+3. To learn AI problem solving skills.
+4. To apply AI knowledge to solve real world problems.
+5. To develop positive attitude for teamwork through group mini project
+Course Outcomes:
+After completion of this course, students will be able to:
+1. Identify and apply suitable Intelligent agents for various AI applications
+2. Design smart systems using different informed search /
+uninformed search approaches.
+3. Demonstrate knowledge of reasoning and knowledge representation for solving
+real world problems.
+4. Understand various applications domains in AI and solve real world problems.
+Course Contents:
+UNIT I Introduction to Artificial Intelligence and Search Strategies
+History and Introduction to AI, Intelligent Agent, Types of agents, Environment and types,
+Typical AI problems. Search Strategies: Problem solving and formulating a problem, State
+Space Search - Uninformed and Informed Search Techniques, Heuristic function, A, AO
+algorithm, Hill climbing, Constraint satisfaction method, Game Playing: Minimax algorithm,
+alpha beta cut offs.
+UNIT II Knowledge Representation and Planning
+Propositional logic and predicate logic, Knowledge Representation structure such as frame,
+Conceptual dependencies, Semantic networks and script, Inference - Resolution in predicate
+logic, Unification algorithm, Forward and Backward chaining, Planning: Forward and
+Backward planning, Goal Stack Planning, Hierarchical Planning.
+UNIT III Uncertain Knowledge and Reasoning
+Acting under Uncertainty, Basic Probability Notation, Inference Using Full Joint Distributions,
+Independence, Bayes’ Rule and Its Use, Representing Knowledge in an Uncertain Domain,
+The Semantics of Bayesian Networks, Efficient Representation of Conditional Distributions,
+Exact Inference in Bayesian Networks. Approximate inference in Bayesian Networks, Other
+Approaches to Uncertain Reasoning-Fuzzy sets and Fuzzy logic.
+UNIT IV Expert System
+Architecture of Expert system, Role of Expert system, Capabilities of Expert Systems,
+Inference engine, Knowledge acquisition, Expert Systems Limitations, Expert systems shells,
+Applications of Expert systems. Case study of Expert systems- MYCIN
+UNIT V Advanced topics and Applications of AI
+Applications of AI, Introduction to Machine Learning, Artificial Neural Network, Deep
+learning, Natural Language Processing, Introduction to Robotics and Computer Vision,
+Applications of AI in Business.
+
+Artificial Intelligence and Expert Systems Laboratory
+Course Objectives:
+To understand the concepts of Artificial Intelligence (AI) and expert systems
+To learn various search strategies for AI
+To learn AI problem solving skills.
+To apply AI knowledge to solve real world problems.
+To develop positive attitude for teamwork through group mini project
+Course Outcomes:
+After completion of this course, students will be able to:
+1. Identify and apply suitable Intelligent agents for various AI applications
+2. Design smart systems using different informed search /
+uninformed search approaches.
+3. Demonstrate knowledge of reasoning and knowledge representation for
+solving real world problems.
+4. Understand various applications domains in AI and solve real world problems.
+Laboratory Assignment
+1. Implement problem solver using A* algorithm to solve 8 puzzle problem.
+2. Implement game play with adversarial search using mini_max algorithm: e.g. Tic tac
+toe, chess
+3. Write a program to solve Constraint Satisfaction problem (Map coloring problem or
+crypt-arithmetic problem solver or Sudoku)
+4. Implement a Unification algorithm and test it for various input cases.
+5. Implement a local search algorithm or genetic algorithm for e.g. chess, n-queens,
+travelling salesman problem
+6. Implement a chat bot using techniques of Natural Language Processing
+7. Develop expert system using prolog.
+8. Implement a Neural network for a real life application
+9. AI Mini Project
+
+
+First I have to submit a prototype of the AIES project.
+
+So here is the document I have created for the AIES project.
+AKeystroke Analysis for User Identification: Project Review
+Artificial Intelligence and Expert Systems (AIES) Mini Project
+1. Project Overview
+This project aims to develop an intelligent system that can identify users based on their keystroke dynamics. The system will analyze patterns in how users type—including keystroke timing, pressure, and rhythm—to create a biometric profile that can be used for identification and authentication purposes.
+2. Project Objectives
+Develop AI models that can accurately identify users based on their typing patterns
+Compare multiple classification approaches to determine optimal performance
+Implement an expert system component for final authentication decisions
+Create a system that can adapt UI elements based on identified users
+Demonstrate practical applications of AI concepts covered in the AIES curriculum
+3. Methodology
+3.1 Data Acquisition
+The project will use a custom Python-based keylogger to collect keystroke data, including:
+Key press and release timings
+Keystroke latency (time between consecutive keys)
+Key hold duration (dwell time)
+Special key usage patterns (shift, backspace, etc.)
+Application context
+This data collection system is being developed as part of the Data Engineering Concepts project and will provide the necessary training dataset.
+3.2 Feature Extraction
+From raw keystroke data, the following features will be extracted:
+Digraph and trigraph latencies (timing between common two or three letter combinations)
+Average typing speed and rhythm
+Error correction patterns (backspace usage)
+Special key usage frequencies
+Statistical measures (mean, standard deviation, etc.) of timing patterns
+3.3 Model Development
+The project will implement and compare multiple AI approaches:
+3.3.1 Decision Trees and Random Forest
+Implementation of decision tree classifiers to establish baseline performance
+Use of random forest for improved classification accuracy
+Feature importance analysis to identify key typing pattern indicators
+3.3.2 Bayesian Networks
+Implementation of probabilistic reasoning using Bayes' rule
+Handling uncertainty in user identification
+Creating conditional probability tables for keystroke features
+3.3.3 Neural Networks
+Development of multi-layer perceptron models
+Testing various network architectures and activation functions
+Comparison of performance against traditional models
+3.3.4 Support Vector Machines
+Implementation of SVM classifiers with different kernel functions
+Optimization of hyperparameters for keystroke classification
+3.4 Expert System Component
+An expert system will be developed to:
+Apply rule-based reasoning for final authentication decisions
+Handle edge cases and uncertain identifications
+Incorporate feedback mechanisms for continuous improvement
+Make final decisions about UI adaptations based on confidence levels
+3.5 Experimental Design
+The project will conduct several experiments to optimize performance:
+3.5.1 Feature Weight Experiments
+Testing models with different emphasis on keystroke features
+Analyzing how accuracy changes when prioritizing different aspects of typing behavior
+Identifying optimal feature combinations for user identification
+3.5.2 Parameter Tuning
+Systematic grid search for optimal hyperparameters
+Cross-validation testing for model robustness
+Sensitivity analysis of model parameters
+3.5.3 User Interface Adaptation
+Testing different UI adaptation strategies based on user identification
+Measuring user satisfaction with automatic adaptations
+4. Implementation Plan
+ Tools and Technologies
+Programming Language: Python
+Machine Learning Libraries: scikit-learn, TensorFlow/Keras, keyboard
+Visualization: matplotlib, seaborn
+User Interface: tkinter/PyQt
+5. Evaluation Metrics
+The project will be evaluated using:
+Accuracy, precision, recall, and F1-score for identification performance
+Confusion matrices to analyze misclassifications
+Cross-validation results to assess model generalization
+User feedback on UI adaptation effectiveness
+6. Expected Outcomes
+A functional user identification system using keystroke dynamics
+Comparative analysis of different AI approaches for biometric authentication
+Insights into the most discriminative features of typing patterns
+A demonstration of practical applications of AIES concepts
+7. Alignment with AIES Course Objectives
+AIES Unit
+Project Component
+Unit 1: Introduction and Search Strategies
+Implementation of heuristic-based feature selection
+Unit 2: Knowledge Representation and Planning
+Representation of typing patterns as knowledge structures
+Unit 3: Uncertain Knowledge and Reasoning
+Bayesian network implementation for probabilistic identification
+Unit 4: Expert System
+Rule-based authentication decision system with inference engine
+Unit 5: Advanced Topics
+Neural network implementation for keystroke pattern recognition
+
+8. Experimental Scenarios
+8.1 Feature Importance Analysis
+Experiment
+Description
+Expected Outcome
+Baseline
+Equal weighting of all features
+Establish performance benchmark
+Emphasis on Timing
+Prioritize inter-key timing features
+Assess impact of rhythm on identification
+Emphasis on Error Patterns
+Prioritize backspace usage and corrections
+Determine if error correction is user-specific
+Emphasis on Special Keys
+Prioritize shift, ctrl, alt usage patterns
+Assess impact of modifier key usage on identification
+
+8.2 Model Comparison
+Model
+Strengths
+Limitations
+Evaluation Criteria
+Decision Tree
+Interpretable, identifies key features
+May overfit to training data
+Feature importance, accuracy
+Random Forest
+Robust to overfitting, handles feature interactions
+Less interpretable than single trees
+Overall accuracy, generalization
+SVM
+Effective for high-dimensional data
+Requires careful kernel selection
+Accuracy with different kernels
+Neural Network
+Captures complex patterns, adaptive
+Requires more data, black box nature
+Performance vs. complexity tradeoff
+Bayesian Network
+Handles uncertainty, probabilistic reasoning
+Complex to structure properly
+Probabilistic assessment, confidence scores
+
+9. Challenges and Mitigation Strategies
+Challenge
+Mitigation Strategy
+Data quantity limitations
+Implement data augmentation techniques
+User typing inconsistency
+Develop robust feature extraction methods
+Model overfitting
+Implement cross-validation and regularization
+Real-time performance requirements
+Optimize code and utilize efficient algorithms
+Privacy concerns
+Implement secure data storage and anonymization
+
+10. Future Enhancements
+Integration with other biometric authentication methods
+Continuous learning mechanisms for model adaptation
+Expanded feature set including emotional state detection
+Cross-device typing pattern recognition
+Integration with cybersecurity applications
+11. Conclusion
+This keystroke analysis project will demonstrate the practical application of artificial intelligence and expert systems concepts in a real-world authentication scenario. By implementing and comparing multiple AI approaches, the project will provide insights into the effectiveness of different techniques for biometric identification. The integration with an expert system component will showcase how rule-based reasoning can enhance the decision-making process in uncertain environments. The project aligns well with the AIES curriculum objectives and provides a comprehensive platform for exploring AI techniques in a practical context.
+
+
+
+
+This is the stratergy for now.
+Short-Term Strategy (2-day deadline focus)
+
+Start with a simplified data collection approach:
+
+Create a basic keylogger that captures only the essential metrics you need
+Focus on capturing key press/release timings, keystroke latencies, and perhaps backspace usage
+Skip the complex data preprocessing and warehousing components for now
+
+
+Generate a small but sufficient dataset quickly:
+
+Have 3-5 different people (yourself, friends, family) type standard paragraphs
+Create a labeled dataset with just enough data to demonstrate your models
+
+
+Implement 2-3 key models for the AIES project:
+
+Choose models that clearly demonstrate different AI concepts from your syllabus
+Implement a decision tree (interpretable baseline)
+Implement a neural network (advanced approach)
+Add the Bayesian approach if time permits (to cover uncertainty reasoning)
+
+
+Create a simple expert system component:
+
+Implement basic rules for authentication decisions
+Focus on demonstrating the expert system concepts rather than perfect accuracy
+
+
+
+
+
+
+
+
+
+
+For creating the keylogger am using keyboard library by boppreh..
+
+For now I am just doing 
+sudo python -m keyboard >> events.txt
+And the data is stored in evnets.txt in the following format.
+{"event_type": "down", "scan_code": 20, "name": "t", "time": 1741485916.726216, "device": "/dev/input/event20", "is_keypad": false}
+{"event_type": "up", "scan_code": 20, "name": "t", "time": 1741485916.895369, "device": "/dev/input/event20", "is_keypad": false}
+{"event_type": "down", "scan_code": 30, "name": "a", "time": 1741485916.928733, "device": "/dev/input/event20", "is_keypad": false}
+{"event_type": "down", "scan_code": 23, "name": "i", "time": 1741485917.05276, "device": "/dev/input/event20", "is_keypad": false}
+{"event_type": "up", "scan_code": 30, "name": "a", "time": 1741485917.082976, "device": "/dev/input/event20", "is_keypad": false}
+{"event_type": "up", "scan_code": 23, "name": "i", "time": 1741485917.16384, "device": "/dev/input/event20", "is_keypad": false}
+{"event_type": "down", "scan_code": 38, "name": "l", "time": 1741485917.370169, "device": "/dev/input/event20", "is_keypad": false}
+{"event_type": "up", "scan_code": 38, "name": "l", "time": 1741485917.557874, "device": "/dev/input/event20", "is_keypad": false}
+
+When I looked into the library, 
+I think I can change something to make it work according to us, 
+As this is the code
+# -- coding: utf-8 --
+from time import time as now
+import json
+from ._canonical_names import canonical_names, normalize_name
+try:
+    basestring
+except NameError:
+    basestring = str
+KEY_DOWN = 'down'
+KEY_UP = 'up'
+class KeyboardEvent(object):
+    event_type = None
+    scan_code = None
+    name = None
+    time = None
+    device = None
+    modifiers = None
+    is_keypad = None
+    def init(self, event_type, scan_code, name=None, time=None, device=None, modifiers=None, is_keypad=None):
+        self.event_type = event_type
+        self.scan_code = scan_code
+        self.time = now() if time is None else time
+        self.device = device
+        self.is_keypad = is_keypad
+        self.modifiers = modifiers
+        if name:
+            self.name = normalize_name(name)
+    def to_json(self, ensure_ascii=False):
+        attrs = dict(
+            (attr, getattr(self, attr)) for attr in ['event_type', 'scan_code', 'name', 'time', 'device', 'iskeypad', 'modifiers']
+            if not attr.startswith('')
+        )
+        return json.dumps(attrs, ensure_ascii=ensure_ascii)
+    def repr(self):
+        return 'KeyboardEvent({} {})'.format(self.name or 'Unknown {}'.format(self.scan_code), self.event_type)
+    def eq(self, other):
+        return (
+            isinstance(other, KeyboardEvent)
+            and self.event_type == other.event_type
+            and (
+                not self.scan_code or not other.scan_code or self.scan_code == other.scan_code
+            ) and (
+                not self.name or not other.name or self.name == other.name
+            )
+        )
+
+But I think for now, I should not change it and let it save as it is saving, and implement another python script to save in proper format, so that I can at least show where the data engineering would happen.
+
+For writing the script that converts this to the data we can use, Make sure that the multiple down event_type is taken care of(If I press a button down for a long time, it will just print that the button is pressed for multiple lines, so we cannot just get the time by just subtracting last two records). I have attached an example below
+{"event_type": "down", "scan_code": 32, "name": "d", "time": 1741486442.834024, "device": "/dev/input/event20", "is_keypad": false}
+{"event_type": "down", "scan_code": 32, "name": "d", "time": 1741486442.868024, "device": "/dev/input/event20", "is_keypad": false}
+{"event_type": "down", "scan_code": 32, "name": "d", "time": 1741486442.902026, "device": "/dev/input/event20", "is_keypad": false}
+{"event_type": "down", "scan_code": 32, "name": "d", "time": 1741486442.936024, "device": "/dev/input/event20", "is_keypad": false}
+{"event_type": "down", "scan_code": 32, "name": "d", "time": 1741486442.970021, "device": "/dev/input/event20", "is_keypad": false}
+{"event_type": "down", "scan_code": 32, "name": "d", "time": 1741486443.004026, "device": "/dev/input/event20", "is_keypad": false}
+d{"event_type": "down", "scan_code": 32, "name": "d", "time": 1741486443.038027, "device": "/dev/input/event20", "is_keypad": false}
+{"event_type": "down", "scan_code": 35, "name": "h", "time": 1741486443.044821, "device": "/dev/input/event20", "is_keypad": false}
+dh{"event_type": "up", "scan_code": 35, "name": "h", "time": 1741486443.201199, "device": "/dev/input/event20", "is_keypad": false}
+{"event_type": "up", "scan_code": 32, "name": "d", "time": 1741486443.260682, "device": "/dev/input/event20", "is_keypad": false}
+
+
+Also implement a basic algo in the convert file that understands when the user is not typing and not use that in the dataset.
+I mean that I when I wuold be giving this script to people to type on, I want them to type after just running the script in background, and get all the data of it, but I also want to make sure that, while trainging the model, whhen people just wait, are afk or doing other task other than constatntyly typing on the keyboard, that should not be used to train the ai.
+Also some random keypresses one or two times to operate the system should not be in the dataset, I want the data of people just typing.
+
