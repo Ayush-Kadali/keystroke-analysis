@@ -1,0 +1,128 @@
+[
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742259090.928112,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742259091.067929,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 1,
+    "name": "esc",
+    "time": 1742259091.068111,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742259091.177472,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742259091.271198,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 1,
+    "name": "esc",
+    "time": 1742259091.271277,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742259091.356042,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742259091.466951,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 1,
+    "name": "esc",
+    "time": 1742259091.46699,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742259091.976592,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742259092.086725,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 1,
+    "name": "esc",
+    "time": 1742259092.08683,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742259092.23104,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742259092.371466,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 1,
+    "name": "esc",
+    "time": 1742259092.371526,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742259093.296355,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742259093.419397,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 1,
+    "name": "esc",
+    "time": 1742259093.419504,
+    "is_keypad": false
+  }
+]

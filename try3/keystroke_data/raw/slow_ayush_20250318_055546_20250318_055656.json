@@ -1,0 +1,1360 @@
+[
+  {
+    "event_type": "down",
+    "scan_code": 24,
+    "name": "o",
+    "time": 1742257551.771253,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 24,
+    "name": "o",
+    "time": 1742257551.898397,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 33,
+    "name": "f",
+    "time": 1742257552.314578,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 33,
+    "name": "f",
+    "time": 1742257552.400383,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257553.12723,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257553.279497,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 30,
+    "name": "a",
+    "time": 1742257553.798044,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 30,
+    "name": "a",
+    "time": 1742257553.904157,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 19,
+    "name": "r",
+    "time": 1742257554.445156,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 19,
+    "name": "r",
+    "time": 1742257554.590616,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 24,
+    "name": "o",
+    "time": 1742257555.185728,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 24,
+    "name": "o",
+    "time": 1742257555.322564,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 22,
+    "name": "u",
+    "time": 1742257555.84971,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 22,
+    "name": "u",
+    "time": 1742257555.976688,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 49,
+    "name": "n",
+    "time": 1742257556.589861,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 49,
+    "name": "n",
+    "time": 1742257556.708551,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 32,
+    "name": "d",
+    "time": 1742257557.332343,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 32,
+    "name": "d",
+    "time": 1742257557.489203,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257558.185717,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257558.308388,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 49,
+    "name": "n",
+    "time": 1742257558.851599,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 49,
+    "name": "n",
+    "time": 1742257558.953249,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 30,
+    "name": "a",
+    "time": 1742257559.712742,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 30,
+    "name": "a",
+    "time": 1742257559.801687,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 20,
+    "name": "t",
+    "time": 1742257560.317492,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 20,
+    "name": "t",
+    "time": 1742257560.450485,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 23,
+    "name": "i",
+    "time": 1742257561.038862,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 23,
+    "name": "i",
+    "time": 1742257561.1363,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 24,
+    "name": "o",
+    "time": 1742257561.787062,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 24,
+    "name": "o",
+    "time": 1742257561.969236,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 49,
+    "name": "n",
+    "time": 1742257562.503957,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 49,
+    "name": "n",
+    "time": 1742257562.677376,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257563.115214,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257563.28025,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 24,
+    "name": "o",
+    "time": 1742257563.887211,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 24,
+    "name": "o",
+    "time": 1742257563.997431,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 20,
+    "name": "t",
+    "time": 1742257564.504612,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 20,
+    "name": "t",
+    "time": 1742257564.674082,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 35,
+    "name": "h",
+    "time": 1742257565.097781,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 35,
+    "name": "h",
+    "time": 1742257565.195282,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 18,
+    "name": "e",
+    "time": 1742257565.659847,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 18,
+    "name": "e",
+    "time": 1742257565.813028,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 19,
+    "name": "r",
+    "time": 1742257566.340814,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 19,
+    "name": "r",
+    "time": 1742257566.49732,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257566.697207,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257566.888504,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 21,
+    "name": "y",
+    "time": 1742257567.555172,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 21,
+    "name": "y",
+    "time": 1742257567.622921,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 18,
+    "name": "e",
+    "time": 1742257568.226466,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 18,
+    "name": "e",
+    "time": 1742257568.393993,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 30,
+    "name": "a",
+    "time": 1742257568.866418,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 30,
+    "name": "a",
+    "time": 1742257569.023782,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 19,
+    "name": "r",
+    "time": 1742257569.524018,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 19,
+    "name": "r",
+    "time": 1742257569.665802,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257570.09149,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257570.2362,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 25,
+    "name": "p",
+    "time": 1742257570.523228,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 25,
+    "name": "p",
+    "time": 1742257570.667844,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 19,
+    "name": "r",
+    "time": 1742257571.235507,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 19,
+    "name": "r",
+    "time": 1742257571.384575,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 24,
+    "name": "o",
+    "time": 1742257571.875212,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 24,
+    "name": "o",
+    "time": 1742257571.986179,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 48,
+    "name": "b",
+    "time": 1742257572.530188,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 48,
+    "name": "b",
+    "time": 1742257572.669904,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 38,
+    "name": "l",
+    "time": 1742257573.222195,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 38,
+    "name": "l",
+    "time": 1742257573.328008,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 18,
+    "name": "e",
+    "time": 1742257573.830569,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 18,
+    "name": "e",
+    "time": 1742257573.978732,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 50,
+    "name": "m",
+    "time": 1742257574.428929,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 50,
+    "name": "m",
+    "time": 1742257574.598186,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257575.38666,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257575.548371,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 46,
+    "name": "c",
+    "time": 1742257576.019521,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 46,
+    "name": "c",
+    "time": 1742257576.177618,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 35,
+    "name": "h",
+    "time": 1742257576.573982,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 35,
+    "name": "h",
+    "time": 1742257576.705179,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 30,
+    "name": "a",
+    "time": 1742257577.124021,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 30,
+    "name": "a",
+    "time": 1742257577.28474,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 49,
+    "name": "n",
+    "time": 1742257577.68084,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 49,
+    "name": "n",
+    "time": 1742257577.843641,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 34,
+    "name": "g",
+    "time": 1742257578.568655,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 34,
+    "name": "g",
+    "time": 1742257578.658516,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 18,
+    "name": "e",
+    "time": 1742257579.215821,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 18,
+    "name": "e",
+    "time": 1742257579.37239,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257579.858871,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257579.996199,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 20,
+    "name": "t",
+    "time": 1742257580.461407,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 20,
+    "name": "t",
+    "time": 1742257580.57989,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 35,
+    "name": "h",
+    "time": 1742257581.106358,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 35,
+    "name": "h",
+    "time": 1742257581.213355,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 30,
+    "name": "a",
+    "time": 1742257581.627581,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 30,
+    "name": "a",
+    "time": 1742257581.784883,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 49,
+    "name": "n",
+    "time": 1742257582.2872,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 49,
+    "name": "n",
+    "time": 1742257582.477675,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257583.106545,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257583.203986,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 17,
+    "name": "w",
+    "time": 1742257583.605727,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 17,
+    "name": "w",
+    "time": 1742257583.736805,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 19,
+    "name": "r",
+    "time": 1742257584.256057,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 19,
+    "name": "r",
+    "time": 1742257584.413231,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 23,
+    "name": "i",
+    "time": 1742257584.964566,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 23,
+    "name": "i",
+    "time": 1742257585.078841,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 20,
+    "name": "t",
+    "time": 1742257585.522832,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 20,
+    "name": "t",
+    "time": 1742257585.698912,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 18,
+    "name": "e",
+    "time": 1742257586.000712,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 18,
+    "name": "e",
+    "time": 1742257586.157707,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257586.701334,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257586.809146,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 23,
+    "name": "i",
+    "time": 1742257587.238287,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 23,
+    "name": "i",
+    "time": 1742257587.352759,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 49,
+    "name": "n",
+    "time": 1742257587.811449,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 49,
+    "name": "n",
+    "time": 1742257587.972456,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257588.62435,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257588.767138,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 17,
+    "name": "w",
+    "time": 1742257589.263289,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 17,
+    "name": "w",
+    "time": 1742257589.374345,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 23,
+    "name": "i",
+    "time": 1742257589.762935,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 23,
+    "name": "i",
+    "time": 1742257589.864993,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 20,
+    "name": "t",
+    "time": 1742257590.234919,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 20,
+    "name": "t",
+    "time": 1742257590.387331,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 35,
+    "name": "h",
+    "time": 1742257590.86303,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 35,
+    "name": "h",
+    "time": 1742257590.974312,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 24,
+    "name": "o",
+    "time": 1742257591.452301,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 24,
+    "name": "o",
+    "time": 1742257591.55614,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 22,
+    "name": "u",
+    "time": 1742257592.311183,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 22,
+    "name": "u",
+    "time": 1742257592.476194,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 20,
+    "name": "t",
+    "time": 1742257593.011892,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 20,
+    "name": "t",
+    "time": 1742257593.177058,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257593.507768,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257593.710686,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 25,
+    "name": "p",
+    "time": 1742257594.08924,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 25,
+    "name": "p",
+    "time": 1742257594.241935,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 24,
+    "name": "o",
+    "time": 1742257594.699416,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 24,
+    "name": "o",
+    "time": 1742257594.81354,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 31,
+    "name": "s",
+    "time": 1742257595.313158,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 31,
+    "name": "s",
+    "time": 1742257595.429683,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 31,
+    "name": "s",
+    "time": 1742257595.897836,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 31,
+    "name": "s",
+    "time": 1742257596.020825,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 23,
+    "name": "i",
+    "time": 1742257596.347383,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 23,
+    "name": "i",
+    "time": 1742257596.472069,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 48,
+    "name": "b",
+    "time": 1742257596.784679,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 48,
+    "name": "b",
+    "time": 1742257596.951018,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 38,
+    "name": "l",
+    "time": 1742257597.310248,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 38,
+    "name": "l",
+    "time": 1742257597.379185,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 18,
+    "name": "e",
+    "time": 1742257597.959459,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 18,
+    "name": "e",
+    "time": 1742257598.094907,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257598.519257,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257598.679969,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 31,
+    "name": "s",
+    "time": 1742257598.877617,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 31,
+    "name": "s",
+    "time": 1742257599.013024,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 46,
+    "name": "c",
+    "time": 1742257599.585803,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 46,
+    "name": "c",
+    "time": 1742257599.712692,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 35,
+    "name": "h",
+    "time": 1742257600.171189,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 35,
+    "name": "h",
+    "time": 1742257600.328477,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 24,
+    "name": "o",
+    "time": 1742257600.816671,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 24,
+    "name": "o",
+    "time": 1742257600.970552,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 24,
+    "name": "o",
+    "time": 1742257601.354461,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 24,
+    "name": "o",
+    "time": 1742257601.508743,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 38,
+    "name": "l",
+    "time": 1742257601.953557,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 38,
+    "name": "l",
+    "time": 1742257602.105223,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257602.593431,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257602.750597,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 35,
+    "name": "h",
+    "time": 1742257603.112239,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 35,
+    "name": "h",
+    "time": 1742257603.235855,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 30,
+    "name": "a",
+    "time": 1742257603.659178,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 30,
+    "name": "a",
+    "time": 1742257603.828291,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 49,
+    "name": "n",
+    "time": 1742257604.327191,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 49,
+    "name": "n",
+    "time": 1742257604.462628,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 32,
+    "name": "d",
+    "time": 1742257604.968224,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 32,
+    "name": "d",
+    "time": 1742257605.116217,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257605.526586,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257605.708582,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 32,
+    "name": "d",
+    "time": 1742257605.988508,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 32,
+    "name": "d",
+    "time": 1742257606.107402,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 18,
+    "name": "e",
+    "time": 1742257606.580988,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 18,
+    "name": "e",
+    "time": 1742257606.733316,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 47,
+    "name": "v",
+    "time": 1742257607.045895,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 47,
+    "name": "v",
+    "time": 1742257607.178705,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 18,
+    "name": "e",
+    "time": 1742257607.766776,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 18,
+    "name": "e",
+    "time": 1742257607.902069,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 38,
+    "name": "l",
+    "time": 1742257608.248424,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 38,
+    "name": "l",
+    "time": 1742257608.401776,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 24,
+    "name": "o",
+    "time": 1742257608.87153,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 24,
+    "name": "o",
+    "time": 1742257609.011973,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 25,
+    "name": "p",
+    "time": 1742257609.534438,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 25,
+    "name": "p",
+    "time": 1742257609.680033,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257610.182187,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 57,
+    "name": "space",
+    "time": 1742257610.355841,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 17,
+    "name": "w",
+    "time": 1742257610.812399,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 17,
+    "name": "w",
+    "time": 1742257610.943662,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 35,
+    "name": "h",
+    "time": 1742257611.445215,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 35,
+    "name": "h",
+    "time": 1742257611.598116,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 23,
+    "name": "i",
+    "time": 1742257612.179074,
+    "is_keypad": false
+  },
+  {
+    "event_type": "up",
+    "scan_code": 23,
+    "name": "i",
+    "time": 1742257612.289587,
+    "is_keypad": false
+  }
+]

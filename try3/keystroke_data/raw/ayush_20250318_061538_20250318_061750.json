@@ -1,0 +1,282 @@
+[
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258868.886177,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.137136,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.171133,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.20513,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.239133,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.273131,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.307132,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.341134,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.375133,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.409134,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.443131,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.477318,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.51215,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.546264,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.580125,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.614137,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.648137,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.682135,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.71613,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.750127,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.784145,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.818136,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.852081,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.886138,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.920136,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.954113,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258869.988136,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258870.022128,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258870.056153,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258870.090131,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258870.124181,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258870.158089,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258870.192122,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258870.226125,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258870.260095,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258870.295133,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258870.330133,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258870.364135,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 29,
+    "name": "ctrl",
+    "time": 1742258870.398138,
+    "is_keypad": false
+  },
+  {
+    "event_type": "down",
+    "scan_code": 46,
+    "name": "c",
+    "time": 1742258870.424891,
+    "is_keypad": false
+  }
+]

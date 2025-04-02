@@ -1,0 +1,114 @@
+[
+  {
+    "event_type": "down",
+    "scan_code": 13,
+    "name": null,
+    "time": 1742711856.0930848,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 13,
+    "name": null,
+    "time": 1742711856.192108,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 4,
+    "name": null,
+    "time": 1742711856.366681,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 4,
+    "name": null,
+    "time": 1742711856.454964,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 31,
+    "name": null,
+    "time": 1742711856.770648,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 31,
+    "name": null,
+    "time": 1742711856.8583071,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 49,
+    "name": "space",
+    "time": 1742711857.129316,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 49,
+    "name": "space",
+    "time": 1742711857.218051,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 37,
+    "name": null,
+    "time": 1742711857.815603,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 37,
+    "name": null,
+    "time": 1742711857.933852,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 1,
+    "name": null,
+    "time": 1742711858.369604,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 1,
+    "name": null,
+    "time": 1742711858.467746,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 17,
+    "name": null,
+    "time": 1742711858.711875,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 17,
+    "name": null,
+    "time": 1742711858.789052,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 49,
+    "name": "space",
+    "time": 1742711859.0775511,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 49,
+    "name": "space",
+    "time": 1742711859.153982,
+    "is_keypad": 0
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "event_type": "down",
+    "scan_code": 59,
+    "name": "ctrl",
+    "time": 1742708703.4101062,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 59,
+    "name": "ctrl",
+    "time": 1742708703.515678,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 53,
+    "name": "esc",
+    "time": 1742708703.519883,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 53,
+    "name": "esc",
+    "time": 1742708703.5243468,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 59,
+    "name": "ctrl",
+    "time": 1742708703.687586,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 40,
+    "name": null,
+    "time": 1742708703.903011,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 40,
+    "name": null,
+    "time": 1742708704.026882,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 40,
+    "name": null,
+    "time": 1742708704.119199,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 37,
+    "name": null,
+    "time": 1742708704.123256,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 38,
+    "name": null,
+    "time": 1742708704.21905,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 37,
+    "name": null,
+    "time": 1742708704.2226691,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 40,
+    "name": null,
+    "time": 1742708704.258972,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 38,
+    "name": null,
+    "time": 1742708704.314246,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 37,
+    "name": null,
+    "time": 1742708704.386858,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 41,
+    "name": null,
+    "time": 1742708704.391032,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 38,
+    "name": null,
+    "time": 1742708704.4182038,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 40,
+    "name": null,
+    "time": 1742708704.438915,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 41,
+    "name": null,
+    "time": 1742708704.466729,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 37,
+    "name": null,
+    "time": 1742708704.4865532,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 38,
+    "name": null,
+    "time": 1742708704.534375,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 40,
+    "name": null,
+    "time": 1742708704.5424619,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 38,
+    "name": null,
+    "time": 1742708705.036206,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 40,
+    "name": null,
+    "time": 1742708705.0873559,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 37,
+    "name": null,
+    "time": 1742708705.118784,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 38,
+    "name": null,
+    "time": 1742708705.143235,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 38,
+    "name": null,
+    "time": 1742708705.259369,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 37,
+    "name": null,
+    "time": 1742708705.2990909,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 40,
+    "name": null,
+    "time": 1742708705.326633,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 38,
+    "name": null,
+    "time": 1742708705.4185789,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 37,
+    "name": null,
+    "time": 1742708705.462662,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 40,
+    "name": null,
+    "time": 1742708705.4909708,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 38,
+    "name": null,
+    "time": 1742708705.555229,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 37,
+    "name": null,
+    "time": 1742708705.5585961,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 40,
+    "name": null,
+    "time": 1742708705.5990279,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 38,
+    "name": null,
+    "time": 1742708705.650631,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 37,
+    "name": null,
+    "time": 1742708705.730674,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 40,
+    "name": null,
+    "time": 1742708705.759866,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 38,
+    "name": null,
+    "time": 1742708705.783382,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 37,
+    "name": null,
+    "time": 1742708705.819144,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 40,
+    "name": null,
+    "time": 1742708705.8746848,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 38,
+    "name": null,
+    "time": 1742708705.9025059,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 37,
+    "name": null,
+    "time": 1742708706.018618,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 40,
+    "name": null,
+    "time": 1742708706.055522,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 38,
+    "name": null,
+    "time": 1742708706.123434,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 37,
+    "name": null,
+    "time": 1742708706.151026,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 40,
+    "name": null,
+    "time": 1742708706.17836,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "up",
+    "scan_code": 38,
+    "name": null,
+    "time": 1742708706.218511,
+    "is_keypad": 0
+  },
+  {
+    "event_type": "down",
+    "scan_code": 8,
+    "name": null,
+    "time": 1742708706.875228,
+    "is_keypad": 0
+  }
+]
